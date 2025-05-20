@@ -8,7 +8,7 @@
 
 > &ldquo;But I know myself. I'm definitely gonna give up before a month.&rdquo;
 
-- **Solution**: Take notes on a public github repo so you become embarassed if you don't read.
+- **Solution**: Take notes on a public github repo so I become embarassed if I don't read.
 
 ## How do I take notes?
 
