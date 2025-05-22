@@ -43,25 +43,25 @@
 
 # Project Explanation(english)
 
-## What is this project? &emsp; 이 프로젝트는 무엇인가?
+## What is this project?
 
-> &ldquo;**Oh no!** I can't remember _anything_ from all the books I've read a few years ago!&rdquo; <br> &ldquo;**아이고!** 몇 년 전에 읽은 책 내용도 하나도 기억을 못하겠네!&rdquo;
+> &ldquo;**Oh no!** I can't remember _anything_ from all the books I've read a few years ago!&rdquo;
 
-- **Solution**: From now on, take notes when reading. Review them afterwards.<br>**솔루션**: 이제부터는 읽을 때 노트 필기하기, 나중에 복습하기
+- **Solution**: From now on, take notes when reading. Review them afterwards.
 
-> &ldquo;But I know myself. I'm definitely gonna give up before a month.&rdquo; <br> &ldquo;근데 나도 날 알거든. 무조건 한 달 안에 포기할 거임.&rdquo;
+> &ldquo;But I know myself. I'm definitely gonna give up before a month.&rdquo;
 
-- **Solution**: Take notes on a public github repo so I become embarassed if I don't read. <br> **솔루션**: 깃허브에 공개로 올려서 안 읽으면 스스로 쪽팔리게 만들기
+- **Solution**: Take notes on a public github repo so I become embarassed if I don't read.
 
-## How do I take notes? &emsp; 노트 정리를 어떻게 할 건가?
+## How do I take notes? &emsp;
 
-No fancy note-taking skills matter if I don't **actually read and take notes**, so I'm just going for the method that is easiest to implement. <br> 노트 정리 방식이 얼마나 화려하든 실제로 정리를 하지 않으면 말짱 도루묵이므로, 그냥 실행하기 제일 쉬운 방식을 선택함.
+No fancy note-taking skills matter if I don't **actually read and take notes**, so I'm just going for the method that is easiest to implement.
 
-- Summarize each chapter of the book. <br> 챕터별로 정리하기.
-- Write down some of the interesting lines. <br> 흥미로운 글귀 적기.
-- Write for **me in the future** to read. Do not care about other people reading. <br> **미래의 나**를 위해 적기. 다른 사람들이 읽는지는 신경 안 씀.
+- Summarize each chapter of the book.
+- Write down some of the interesting lines.
+- Write for **me in the future** to read. Do not care about other people reading.
 
-I'll mix Korean and English while taking note of English books, because that's what I'm comfortable with. <br> 영어 책 읽고 정리할 때에는 한국어 영어 편한 대로 섞어 씀.
+I'll mix Korean and English while taking note of English books, because that's what I'm comfortable with.
 
 After completing a book, I may write a **review**. I could refer to sites like [Goodreads](https://www.goodreads.com/) for other people's opinions.
 
