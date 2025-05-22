@@ -1,7 +1,7 @@
 # Sapiens: A Brief History of Mankind
 
 - `Author`: Yuval Noah Harari
-- `Publisher`: Harper
+- `Publisher`: Vintage
 - `Year`: 2011
 
 <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1703329310i/23692271.jpg" width="200px">
@@ -52,13 +52,13 @@
 
 그 외에도 여러 종 존재 가능성.
 
-> *Homo sapiens*, too, belongs to a family. This banal fact used to be one of history's most closely guarded secrets. *Homo sapiens* long preferred to view itself as set apart from animals, an orphan bereft of family, lacking siblings or cousins, and most importantly, without parents. But that's just not the case.
+> (5p) *Homo sapiens*, too, belongs to a family. This banal fact used to be one of history's most closely guarded secrets. *Homo sapiens* long preferred to view itself as set apart from animals, an orphan who has no family, no cousins, and -- most importantly -- no parents. But that's just not the case.
 >
-> *호모 사피엔스*도 어떤 가족의 일원이다. 이 평범한 사실이 한 때는 역사 속에 가장 깊이 숨겨진 비밀이었다. *호모 사피엔스*는 오랫동안 자기 종족은 여타 동물과 차별화되었다고, 자신들은 가족도, 형제자매도, 사촌도, 무엇보다도 부모도 없는 고아라고 여겨 왔다. 그러나 사실은 그렇지가 않다.
+> *호모 사피엔스*도 어떤 가족의 일원이다. 이 평범한 사실이 한 때는 역사 속에 가장 깊이 숨겨진 비밀이었다. *호모 사피엔스*는 오랫동안 자기 종족은 여타 동물과 차별화되었다고, 자신들은 가족도, 사촌도, 무엇보다도 부모도 없는 고아라고 여겨 왔다. 그러나 사실은 그렇지가 않다.
 
-> The truth is that from about 2 million years ago until around 10,000 years ago, the world was home, at one and the same time, to several human species. And why not? Today there are many species of foxes, bears and pigs.
+> (8p) The truth is that from about 2 million years ago until around 10,000 years ago, the world was home, at one and the same time, to several human species. And why not? Today there are many species of bears: brown bears, black bears, grizzly bears, polar bears.
 >
-> 사실은 2백만 년 전부터 1만 년 전쯤까지, 이 세상에는 다양한 종(種)의 인간이 동시에, 함께 존재해 왔다. 그게 왜 이상하겠는가? 지금의 여우나 곰, 돼지들만 봐도 다양한 종이 함께 존재한다.
+> 사실은 2백만 년 전부터 1만 년 전쯤까지, 이 세상에는 다양한 종(種)의 인간이 동시에, 함께 존재해 왔다. 그게 왜 이상하겠는가? 지금의 곰들만 봐도 다양한 종이 함께 존재한다. 불곰, 흑곰, 회색곰, 북극곰.
 
 #### 큰 뇌가 진화한 것의 효과는?
 
@@ -73,7 +73,7 @@
 
 - 최초의 인간의 장점은 '도구로 뼈를 부숴 골수를 먹을 수 있는 것' 정도 뿐이었다?
 
-> This is a key to understanding our history and psychology. Genus *Homo*'s position in the food chain was, until quite recently, solidly in the middle.
+> (12p) This is a key to understanding our history and psychology. Genus *Homo*'s position in the food chain was, until quite recently, solidly in the middle.
 >
 > 이것은 우리 역사와 심리를 이해하는 데에 중요한 열쇠이다. 비교적으로 최근까지는, *호모* 속(屬)이 먹이 사슬에서 차지하는 위치는 딱 중간쯤이었다.
 
@@ -103,7 +103,7 @@
 
 어느 쪽이건 사피엔스가 다른 종들을 (직접적이든 간접적이든) 멸종시킨 것은 맞을 것임.
 
-> Imagine how things might have turned out had the Neanderthals or Denisovans survived alongside *Homo sapiens*. What kind of cultures, societies and political structures would have emerged in a world where several different human species coexisted? How, for example, would religious faiths have unfolded?
+> (19p) Imagine how things might have turned out had the Neanderthals or Denisovans survived alongside *Homo sapiens*. What kind of cultures, societies and political structures would have emerged in a world where several different human species coexisted? How, for example, would religious faiths have unfolded?
 >
 > 네안데르탈인이나 데니소바인이 *호모 사피엔스* 곁에서 계속 살아남았다면 어떻게 되었을지 상상해보라. 서로 다른 인간 종이 공존하는 세상에서 어떤 문화와 사회, 정치 방식이 생겨났을까? 또 종교적인 믿음은 어떻게 발달했을까?
 
@@ -138,9 +138,9 @@
 
 - 30,000 BCE Stadel 동굴의 사자 상과, 지금 푸조 사의 사자 로고 모두 Fiction은 매한가지.
 
-> People easily understand that ‘primitives’ cement their social order by believing in ghosts and spirits, and gathering each full moon to dance together around the campfire. What we fail to appreciate is that our modern institutions function on exactly the same basis.
+> (31p) People easily acknowledge that ‘primitive tribes’ cement their social order by believing in ghosts and spirits, and gathering each full moon to dance together around the campfire. What we fail to appreciate is that our modern institutions function on exactly the same basis.
 >
-> 사람들은 '원시인'들이 귀신과 정령 신앙에 기반한 사회적 질서를 만들고, 보름달 뜬 밤이면 화톳불 주위에서 함께 춤을 췄다는 것은 쉽게 받아들인다. 우리가 놓치곤 하는 것은 현대의 우리 사회도 정확히 같은 원리로 동작한다는 사실이다.
+> 사람들은 '원시 부족'들이 귀신과 정령 신앙에 기반해 사회적 질서를 만들고, 보름달 뜬 밤이면 화톳불 주위에서 함께 춤을 췄다는 것은 쉽게 받아들인다. 우리가 놓치곤 하는 것은 현대의 우리 사회도 정확히 같은 원리로 동작한다는 사실이다.
 
 #### '문화'가 생기며 '역사'가 '생물학'과 분리
 
@@ -197,15 +197,15 @@
 - 리더십 위계질서 없음
 - 근대에 파라과이 농부들에게 학살당한 역사가, 약자를 버리며 생존하는 문화를 만들었을 가능성
 
-> We should beware of demonising or idealising it on the basis of a superficial acquaintance. The Aché were neither angels nor fiends - they were humans.
+> (60p) We should beware of demonising or idealising it on the basis of a superficial acquaintance. The Aché were neither angels nor fiends - they were humans. So, too, were the ancient hunter-gatherers.
 >
-> 표면적인 조사를 바탕으로 그 사회를 악마적인 것이나 이상적인 것으로 묘사하는 것에는 주의해야 한다. Aché족은 천사도 악마도 아니었고, 인간이었다.
+> 표면적인 조사를 바탕으로 그 사회를 악마적인 것이나 이상적인 것으로 묘사하는 것에는 주의해야 한다. Aché족은 천사도 악마도 아니었고, 인간이었다. 고대의 수렵-채집인들도 마찬가지였다.
 
 #### 수렵 채집 시기에 대해서 알 수 없는 것들
 
 당시의 종교나 사회적 구조에 관해서는 알 수 있는 게 거의 없음. 몇 없는 유물로 세울 수 있는 가설 너무 많음.
 
-> It's a Rorschach test that reveals much about the preconceptions of modern scholars, and little about the beliefs of ancient foragers.
+> (64p) It's a Rorschach test that reveals much about the preconceptions of modern scholars, and little about the beliefs of ancient foragers.
 >
 > ([라스코 벽화](https://en.wikipedia.org/wiki/Lascaux#/media/File:Lascaux_01.jpg)의 의미에 대한 가설들을 얘기하며) 이건 [로르샤흐 검사](https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%A5%B4%EC%83%A4%ED%9D%90_%EC%9E%89%ED%81%AC_%EB%B0%98%EC%A0%90_%EA%B2%80%EC%82%AC)와 같아서, 고대 수렵인들의 생각을 드러낸다기보다 현대의 학자들이 가진 선입견을 드러내는 것이다.
 
@@ -214,9 +214,9 @@
 - [순기르](https://www.sapiens.org/archaeology/paleolithic-burial-sunghir/)에서 아이들을 화려하게 꾸며 매장한 이유도 알 수 없다.
 - 지역에 따라 '상해가 있는 해골이 거의 없는 경우'부터 '40퍼센트의 해골에 무기가 박혀있거나 가까이 발견된 경우'로, 폭력의 정도도 천차만별
 
-> Scholars tend to ask only those questions that they can resonably expect to answer. (...) Yet it is vital to ask questions for which no answers are available, otherwise we might be tempted to dismiss 60,000 or 70,000 years of human history with the excuse that 'the people who lived back then did nothing of importance'.
+> (69p) Scholars tend to ask only those questions that they can resonably expect to answer. (...) Yet it is vital to ask questions for which no answers are available, otherwise we might be tempted to dismiss 60,000 of 70,000 years of human history with the excuse that 'the people who lived back then did nothing of importance'.
 >
-> 학자들은 보통 대답이 충분히 가능할 것으로 예상되는 문제만을 다룬다. (...) 하지만 대답이 존재하지 않는 질문을 던지는 것도 중요하다. 그러지 않는다면 우리는 6만, 7만 년에 달하는 인류의 역사를 무시하며 '그 시절 사람들은 특기할 만한 건 아무것도 하지 않았어'라고 변명하게 될 수도 있다.
+> 학자들은 보통 대답이 충분히 가능할 것으로 예상되는 문제만을 다룬다. (...) 하지만 대답이 존재하지 않는 질문을 던지는 것도 중요하다. 그러지 않는다면 우리는 '그 시절 사람들은 특기할 만한 건 아무것도 하지 않았어'라는 변명을 하며 인류의 역사 7만 년 중 6만 년을 무시하게 될 수도 있다.
 
 ---
 
@@ -237,7 +237,7 @@
 
 - 대형 동물 번식 속도 느림
 - 인간에 대한 공포 없었음
-- 화전 농법으로 인간이 생태계를 크게 변화시킴
+- 숲을 불태워 먹거리 확보하는 등 인간이 생태계를 크게 변화시킴
 - 75,000 ~ 15,000년 전의 빙하기도 일조
 
 #### 16,000년 전 아메리카 도달
@@ -248,7 +248,7 @@
 - 14,000년 전 알래스카와 나머지 아메리카 대륙 사이 빙하 녹으며 제대로 대륙 진출
 - 같은 시기 아메리카 대형 동물도 대량 멸종
 
-> Don't believe tree-huggers who claim that our ancestors lived in harmony with nature. Long before the Industrial Revolution, _Homo sapiens_ held the record among all organisms for driving the most plant and animal species to their extinctions.
+> (82p) Don't believe tree-huggers who claim that our ancestors lived in harmony with nature. Long before the Industrial Revolution, _Homo sapiens_ held the record among all organisms for driving the most plant and animal species to their extinctions.
 >
 > 우리의 조상들이 자연과 화합하며 살았다고 환경운동가들이 말한다면 믿지 말아라. 산업혁명 훨씬 전부터, 동식물을 가장 많이 멸종시킨 생명체로서 신기록을 세웠던 것이 *호모 사피엔스*이다.
 
@@ -256,7 +256,45 @@
 
 ### 5. History's Biggest Fraud
 
+#### 농업 혁명
 
+- Levant 지역(이란, 튀르키예 등)에서는 9500-8500 BCE에 발생
+- 한 곳부터 퍼진 게 아니라 여러 곳에서 독립적으로 발생(중동, 중국, 아메리카, 서아프리카, 뉴기니, ...)
+- 호주 등에서는 발생하지 않은 이유: 길들일 수 있는 동식물이 없어서
+
+#### 기존 설: 사람들이 '똑똑해져서 수렵 채집보다 나은 방법을 발명했다'?
+
+- 농업은 수렵 채집보다 힘들었다
+- 균형 잡힌 식습관 불가
+- 수렵 채집을 위한 몸에 농사 작업이 안 맞아 이때부터 디스크, 관절염 등 고질병 발달
+- 잉여 식량은 인구 폭증을 야기함. 그러면서 평균적 생활은 나빠짐.
+- 수렵 채집 시기에 비해 폭력도 줄어들지 않음
+
+> (90p) The Agricultural Revolution was history's biggest fraud. / Who was responsible? Neither kings, nor priests, nor merchants. The culprits were a handful of plant species, including wheat, rice and potatoes. These plants domesticated _Homo sapiens_, rather than vice versa.
+>
+> 농업 혁명은 사상 최대의 사기였다. / 범인은 누구인가? 왕도, 사제도, 상인들도 아니었다. 범인은 밀, 쌀, 감자 같은 식물들이었다. 이 식물들이 *호모 사피엔스*를 길들인 것이다. 그 반대가 아니라.
+
+#### 농업이 서서히 도입된 과정
+
+- 수렵 채집 시기에, 빙하기 끝나며 밀 번성
+- 밀을 점점 많이 먹으며 자연스레 인간들 근처에 밀 자라는 곳 생김
+- 숲을 불태워 먹거리 얻으면 그 자리에 자연스레 밀밭 생김
+- 밀이 많은 곳에는 서서히 정착 생활 시작
+
+#### 럭셔리의 함정
+
+- 일을 더 많이 하면 수확을 더 많이 할 수 있지만, 인구도 더 증가해 평균적으로 더 힘들어진다.
+- 생활 양식이 오랜 기간에 걸쳐 바뀌었기 때문에, 그리고 이미 인구가 증가했기 때문에 다시 예전으로 돌아갈 수는 없었다.
+- 면역 체계 나빠짐
+- 인구 밀도 높아 전염병 더 발생
+- 가뭄에 취약해짐
+- 도둑질의 발생, 전쟁 발달
+
+> (98p) The pursuit of an easier life resulted in much hardship, and not for the last time.
+>
+> 더 편한 삶을 추구하는 것이 더 큰 역경을 불러왔다. 그리고 이런 현상은 그 뒤에도 일어날 것이다.
+
+#### 농업의 발전을 설명할 다른 관점
 
 ---
 
