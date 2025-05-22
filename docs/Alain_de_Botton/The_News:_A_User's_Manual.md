@@ -4,11 +4,13 @@
 - `Publisher`: Pantheon
 - `Year`: 2014
 
-![Book Cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1392003791i/18282869.jpg)
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1392003791i/18282869.jpg" width="200px">
 
 > **Note**: This book happened to be the first book I've read after starting this project.
 >
 > **참고**: 이 프로젝트를 시작하고 첫 번째로 읽은 책이다.
+
+> 주의: 요약과 문장 번역을 제 마음대로 하기 때문에 부정확할 수 있습니다.
 
 ## I. PREFACE
 
