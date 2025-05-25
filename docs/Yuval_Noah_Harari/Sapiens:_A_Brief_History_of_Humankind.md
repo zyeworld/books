@@ -33,9 +33,11 @@
 
  
 
-## Part One: The Cognitive Revolution
+## Part One: The Cognitive Revolution `인지 혁명`
 
 ### 1. An Animal of No Significance
+
+> 제목 의미: 최초의 인간이 동물로서 가진 지위는 '별로 중요치 않았음'
 
 **종의 구별**: 짝짓기 가능하고 번식 가능한 새끼 낳으면 같은 종(種).
 
@@ -111,6 +113,8 @@
 
 ### 2. The Tree of Knowledge
 
+> 제목 의미: 인지 혁명으로 지식을 얻은 인간을 '선악과'를 먹은 것에 빗대 표현한 듯
+
 10만 년 전 Sapiens와 7만 년 전 Sapiens 사이에 Cognitive Revolution이 일어났다?
 
 - 이유는 불명: 인지 혁명을 촉발한 DNA 돌연변이를 'Tree of Knowledge' mutation ('지식의 나무' 돌연변이)라 부르자.
@@ -136,7 +140,7 @@
 
 - 푸조라는 유한책임회사, 그것이 가진 법적 권리, 금전적 가치 등은 모두 '실체'가 아닌 'social construct'(사회적으로 구성된 것), 'imagined reality'(실체라고 상상한 것).
 
-- 30,000 BCE Stadel 동굴의 사자 상과, 지금 푸조 사의 사자 로고 모두 Fiction은 매한가지.
+- 30,000 BCE 'Stadel 동굴의 사자 상'부터, 지금 '푸조 사의 사자 로고'까지 모두 Fiction은 매한가지.
 
 > (31p) People easily acknowledge that ‘primitive tribes’ cement their social order by believing in ghosts and spirits, and gathering each full moon to dance together around the campfire. What we fail to appreciate is that our modern institutions function on exactly the same basis.
 >
@@ -155,6 +159,8 @@
 ---
 
 ### 3. A Day in the Life of Adam and Eve
+
+> 제목 의미: (2장과 비슷하게) 아담과 이브에 빗대어 최초의 Sapiens들의 생활 묘사
 
 #### 진화심리학
 
@@ -222,6 +228,8 @@
 
 ### 4. The Flood
 
+> 제목 의미: (2, 3장과 비슷하게) 노아의 방주에 빗대어 '인간들이 배를 타고 호주 진출한 것', 그리고 '여러 동물이 선택적으로 멸종한 것'을 중의적으로 의미하는 듯
+
 #### 45,000년 전의 대사건: 아프리카-유럽-아시아 대륙에서 처음 떠나 호주에 도달.
 
 - 수백 km의 바다를 건너야 했음
@@ -255,6 +263,8 @@
 ## Part Two: The Agricultural Revolution
 
 ### 5. History's Biggest Fraud
+
+> 제목 의미: 농업 혁명은 사상 최대의 사기극임
 
 #### 농업 혁명
 
@@ -294,11 +304,106 @@
 >
 > 더 편한 삶을 추구하는 것이 더 큰 역경을 불러왔다. 그리고 이런 현상은 그 뒤에도 일어날 것이다.
 
-#### 농업의 발전을 설명할 다른 관점
+#### 농업 혁명을 설명할 다른 관점
+
+튀르키예 [Göbekli Tepe](https://ko.wikipedia.org/wiki/%EA%B4%B4%EB%B2%A0%ED%81%B4%EB%A6%AC_%ED%85%8C%ED%8E%98) 대형 조형물
+
+- 9500 BCE에 지어졌기 때문에 농경 사회가 아니었다. (비교: 스톤헨지도 2500 BCE)
+- 즉 농사 때문에 정착 생활을 하게 됐다는 기존의 설명과 모순.
+- '사원을 먼저 짓고 그 주변에 마을을 만들었을' 가능성?
+- 농업 혁명에 대한 설명에 '문화와 종교' 측면도 고려되어야 할 이유.
+
+#### 가축
+
+- 농업 혁명 이후 가축들의 개체수도 엄청나게 증가했다. (DNA의 좁은 시각에서 본다면 엄청난 성공.)
+- 착취당한 가축의 역사:
+    - 몇 주에서 몇 달만 살고 죽는 닭/소
+    - 돼지의 코를 베거나 눈을 멀게 해 통제 쉽게 하기
+    - 어미 소 임신 횟수 최대화하고 자식 소와 항상 떨어뜨려 놓기
+
+> (109p) This discrepancy between evolutionary success and individual suffering is perhaps the most important lesson we can draw from the Agricultural Revolution.
+>
+> 진화적인 번성과 개개인의 고통 사이의 이러한 모순적 관계는 아마도 우리가 농업 혁명에서 얻을 수 있는 가장 중요한 가르침이다.
 
 ---
 
 ### 6. Building Pyramids
+
+> 제목 의미: 이집트의 피라미드가 주제인 듯하지만, 사실 농경 사회에서 사회적 위계질서(피라미드)를 만들었다는 것이 주제
+
+#### 농경 사회가 되며 변화한 점
+
+- '집'으로 생각하는 공간의 크기 작아짐(정착 생활). 집은 보다 인공적인 것이 됨
+- 사람이 가질 수 있는 '물건'의 개수가 크게 늘어남
+- '시간'의 확장: 이제 년 단위로 계획하는 것이 필요해짐
+- 수확의 불확실성 -> 잉여 수확물 모으기 -> 큰 규모의 정치사회적 시스템 발생 (수확물 가져가는 지배층 발생)
+- 적은 수의 엘리트층으로 들어간 잉여 식량은 정치, 전쟁, 예술, 철학 등을 발전시킴
+
+> (114p) History is something that very few people have been doing while everyone else was ploughing fields and carrying water buckets.
+>
+> 역사란 다른 모두가 밭을 갈고 물동이를 이는 동안에 아주 적은 사람들이 진행시킨 것이다.
+
+#### 대규모 협력 네트워크
+
+- DNA에 의해 진화한 것은 (그럴 시간이 없었으므로) 아니고, 상상(imagined order)과 신화의 힘으로 발생한 것.
+
+> (116p) Most human cooperation networks have been geared towards oppression and exploitation.
+>
+> 지금까지 인간의 협력 네트워크 대부분은 탄압과 착취에 초점이 맞춰져 있었다.
+
+#### 상상된 원칙의 예시: 함무라비 법전과 미 독립선언문 비교
+
+> 함무라비 법전(약 1750 BCE)과 미 독립선언문(1776 CE)의 연도가 '기원전 / 기원후'를 빼면 거의 비슷하기 때문에 재밌는 비유
+
+**함무라비 법전**:
+
+- 신에게서 비롯된 영원한 정의의 원칙이라 선포
+- 그 중심에는 hierarchy(계층)의 원리가 있음: 성별과 계급(superior / commoner / slave)에 따라 차등적 권리
+- 가족 내에서 아이는 부모의 소유물로 간주
+- 이 원칙을 따르면 모든 바빌로니아인들이 효과적으로 협력할 수 있을 것이라 생각
+
+**미 독립선언문**:
+
+- 역시 신에게서 비롯된 영원한 정의의 원칙이라 선포
+- 'All men are created equal'
+- 이 원칙을 따르면 모든 미국인들이 효과적으로 협력할 수 있을 것이라 생각
+
+함무라비 법전의 귀족/평민/노예 구분이 '상상된 가치'인 것처럼, 모든 인간이 평등하다는 현대의 원칙도 역시 '상상된 가치'.
+
+만약 상상된 가치 말고 생물학적인 사실만을 사용하고자 한다면 독립선언문을 바꿔야 한다:
+
+> 기존: 모든 사람은 평등하게 창조되었고, 창조주는 몇 개의 양도할 수 없는 권리를 부여했으며, 그 권리 중에는 생명과 자유와 행복의 추구가 있다.
+>
+> 변경: 모든 사람은 각양각색으로 진화하였고, 태어날 때 몇 개의 변이할 수 있는 특성을 가지며, 그 특성 중에는 생명과 쾌감의 추구가 있다.
+
+> (124p) We believe in a particular order not because it is objectively true, but because believing in it enables us to cooperate effectively and forge a better society.
+>
+> 우리가 어떤 원칙을 믿는 이유는 그것이 객관적으로 참이어서가 아니라, 그것을 믿음으로써 우리가 효과적으로 협력하고 더 나은 사회를 만들어갈 수 있기 때문이다.
+
+한편, 이러한 원칙이 '믿음' 없이 유지될 수는 있는가? 권력자들이 '상상된 가치'를 믿지 않고 탐욕만 충족시킨다면 그 체계가 유지될 수 있을까? 혹은, 탐욕을 가진다는 것 자체가 '상상된 가치'를 어느 정도 믿어야만 가능하므로 어불성설인가?(비교: 어떤 가치도 믿지 않고 통 속에서 산 Diogenes)
+
+- Voltaire: 'There is no God, but don't tell that to my servant, lest he murder me at night.' (신은 없지만, 내 종에게 그걸 말하진 마라, 밤에 날 죽일지도 모르니.)
+
+#### '상상된 질서'가 어떻게 유지되는가?
+
+1. 상상된 질서가 물질적으로도 세상에 구현되어 있기 때문
+- 예시: 현대 서구 사회의 '개인주의'는 집의 형태에 구현되어 있음 (칸막이로 나뉜 각자의 방)
+
+2. 상상된 질서가 우리의 욕망을 빚어냄
+- 예시: 해외에서 휴일을 보내려는 욕구는 'Romantic consumerism'이 빚어냄
+- Romanticism: '최대한 다양한 경험을 해야 한다'
+- Consumerism: '최대한 많은 상품을 소비해야 한다'
+- 이는 근현대의 상상된 질서에 기반한 현대인들만의 특징적인 욕구임. 이집트 왕들에게 '피라미드를 지으려는 욕구'와 마찬가지
+
+> (131p) (...) most people in most cultures dedicate their lives to building pyramids.
+>
+> 대부분의 문화 속 대부분의 사람들은 피라미드를 짓는 데에 삶을 바친다.
+
+3. 상상된 질서는 inter-subjective(상호주관적)임
+- 내 주관적인 상상만이 아닌, 수많은 사람의 공유된 상상 속에 존재
+- 한 질서를 무너뜨리려면 '더 큰 질서'를 다수가 믿어야 함. 따라서 상상된 질서라는 것이 사라질 일은 없음
+- 예시: '푸조'라는 기업의 존재를 무너뜨리려면 '프랑스의 법 체계'라는 더 큰 질서가 필요함
+
 
 ---
 
