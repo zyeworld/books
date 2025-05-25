@@ -323,7 +323,7 @@
 
 > (109p) This discrepancy between evolutionary success and individual suffering is perhaps the most important lesson we can draw from the Agricultural Revolution.
 >
-> 진화적인 번성과 개개인의 고통 사이의 이러한 모순적 관계는 아마도 우리가 농업 혁명에서 얻을 수 있는 가장 중요한 가르침이다.
+> 종 전체의 번성과 한 개체의 고통 사이의 이러한 모순적 관계는 아마도 우리가 농업 혁명에서 얻을 수 있는 가장 중요한 가르침이다.
 
 ---
 
@@ -408,6 +408,43 @@
 ---
 
 ### 7. Memory Overload
+
+> 제목 의미: 컴퓨터의 메모리 과부하에 빗대어 '한 명이 기억하기에 정보가 너무 많은' 상황 설명. 또한 문자의 발명으로 '기억하고 생각하는 행위' 자체에 새로운 매개체가 생긴 것을 의미할 수도([Overloading](https://ko.wikipedia.org/wiki/%ED%95%A8%EC%88%98_%EC%98%A4%EB%B2%84%EB%A1%9C%EB%93%9C)).
+
+대규모 협력을 위한 규칙은 한 사람이 전부 외우기에는 너무 복잡함. (비교: DNA에 따라 행동하는 개미의 협력)
+
+뇌의 한계:
+
+- 용량 한계
+- 후손에게 뇌를 물려줄 수는 없음
+- 특정 정보를 다루는 데에만 최적화
+
+이로 인해 농업 혁명 이후 수천 년 간은 큰 공동체 발달하지 않음
+
+#### 3500 ~ 3000 BCE 문자 개발 (수메르)
+
+초기에는 거래 정보를 기록하기 위한 'Partial script'이었음
+
+> 언어를 전부 기록할 수 있는 Full script와 반대로 Partial script는 용도가 제한됨. 다른 Partial script의 예시로는 안데스 지방의 [quipu 매듭](https://en.wikipedia.org/wiki/Quipu)이 있음
+
+현재 우리가 아는 가장 오래된 실존인물 이름은 이때 거래 기록에 있는 [Kushim](https://en.wikipedia.org/wiki/Kushim_(Uruk_period)).
+
+#### '정리'하는 기술의 발달
+
+문자는 여러 곳에서 발달했지만, 기록한 정보를 '정리'하는 기술은 수메르 / 이집트 / 중국 / 중미 네 곳에서 발달. 거래와 같은 정보를 정리하는 데에는 일반적인 두뇌의 사고방식과 전혀 다른 기술이 필요했음.
+
+> (146p) (...) the people who operate such a system of drawers must be reprogrammed to stop thinking as humans and to start thinking as clerks and accountants.
+>
+> 그렇게 서랍장을 운용하는 사람들은 사람으로서 생각하는 걸 멈추고 서기와 회계사로서 생각하도록 새로 프로그래밍되어야 한다.
+
+#### 문자는 인간이 세상을 보고 생각하는 방식을 바꾸었다
+
+- 기원후 9세기 인도에서 (현재 아라비아 숫자라 부르는) 숫자 개발
+- 수학, 물리학, 컴퓨터의 언어가 됨
+
+> (148p) Writing was born as the maidservant of human consciousness, but is increasingly becoming its master.
+>
+> 문자는 인간의 의식을 돕는 하인으로서 탄생했지만, 점차 의식의 주인이 되어가고 있다.
 
 ---
 
