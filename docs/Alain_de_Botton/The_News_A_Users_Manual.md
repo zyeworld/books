@@ -243,17 +243,54 @@ Exotic(이국적인 것)의 개념을 배제하려는 뉴스:
 
 ### DISASTER - _Tragedy_
 
+아리스토텔레스가 비극에 대해 말한 것처럼, 충격적인 사건에 대하여 Horror(의미 없는 진술)보다 Tragedy(교육적인 이야기)로 나아가야 한다.
+
+햄릿, 보바리 부인 등 문학의 캐릭터와 범죄자 뉴스 예시 비교 -> 어느 쪽이 더 나쁘다고 하기 어렵다. 그러나 문학의 캐릭터가 더 인간으로 느껴지며, 그렇기 때문에 그 비극 속 경고의 메시지가 더 크게 다가온다. '비극에 대한 흥미'가 꼭 부끄러운 것이 아닌 이유.
+
+> (193p) Tragedy's task was to demonstrate the ease with which an essentially decent and likeable person could end up generating hell.
+
+뉴스는 독자들이 '범죄자의 입장을 이해하면서 동시에 그 죄를 규탄'하지 못한다 생각해 범죄자를 인간화하지 않으려 한다.
+
+> (195p) Tragedie's shouldn't only help us to be good, they should also prompt us to be kind.
+
 ---
 
 ### DISASTER - _Accident_
+
+비극적 사고에 대한 뉴스를 보는 우리가 얻을 수 있는 건 무엇인가?
+
+- 나에게는 일어나지 않았다는 안도감 -> 내 삶을 보다 객관적으로 비교해 볼 기회?
+
+> (204p) Disaster bears within it a broad and helpful message: humanity suffers.
+
+- 죽음에 대하여 생각하기 -> 우리의 일상 속 의미 있는 것이 무엇인지 생각해 볼 기회?
+- [Vanitas](https://ko.wikipedia.org/wiki/%EB%B0%94%EB%8B%88%ED%83%80%EC%8A%A4%ED%99%94) 그림의 메시지와의 공통점
+
+> (205p) The thought of death has the power to rearrange our priorities, (...)
+
+- 우리는 타인의 사고에서 얻는 메시지를 내면화하되, 동시에 그 슬픔에만 집중하느라 우리의 책임을 저버리지는 않아야 한다.
 
 ---
 
 ### DISASTER - _Nature_
 
+(영국에 사는 작가가) 눈보라 뉴스에서 배운 것
+
+> (211p) We normally pay the weather little information. It behaves roughly as it should and therefore stays outside of the news itself. It is rare for us even to look up for long.
+
+- 자연에 맞서는 상황에서 평소에 비해 많이 마주한 '선한 사람들'에 관한 뉴스
+
+- 모두가 자신의 집 안에 갇혀 분리된 상황에서 오히려 다른 이들에게 공감과 가까움을 느끼게 됨
+
+- 자연에 대해 느끼는 인간의 겸손
+
 ---
 
 ### DISASTER - _Health News_
+
+건강 관련 잡다한 과학적 발견을 광적으로 전달하는 뉴스 - 그 바탕은 '언젠가 모든 걸 치료할 수 있을 거라는 믿음'?
+
+과거 종교가 죽음을 일상화하고 죽음에 대해 준비할 수 있게 해준 것과 비교해, 현대 뉴스는 (재난 뉴스와 건강 뉴스를 포함하여) 죽음을 비일상적인 것으로 만듦
 
 ## VII. CONSUMPTION
 
