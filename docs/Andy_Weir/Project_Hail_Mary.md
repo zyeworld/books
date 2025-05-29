@@ -72,21 +72,21 @@
 
 ### 10 - 19장
 
-<img width="200" src="./Project_Hail_Mary_1.png">
+<img width="200" src="./img/Project_Hail_Mary_1.png">
 
 <br>
 
-<img width="200" src="./Project_Hail_Mary_2.png">
+<img width="200" src="./img/Project_Hail_Mary_2.png">
 
 <br>
 
-<img width="200" src="./Project_Hail_Mary_3.png">
-<img width="500" src="./Project_Hail_Mary_3_1.png">
+<img width="200" src="./img/Project_Hail_Mary_3.png">
+<img width="500" src="./img/Project_Hail_Mary_3_1.png">
 
 <br>
 <br>
 
-<img width="200" src="./Project_Hail_Mary_4.png">
+<img width="200" src="./img/Project_Hail_Mary_4.png">
 
 <img width="200" src="https://media1.tenor.com/m/Bi5t9IXWlEkAAAAd/funny-sad-emoji-getting-disintegrated-into-dust.gif">
 
