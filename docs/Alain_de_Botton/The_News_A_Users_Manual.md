@@ -296,9 +296,25 @@ Exotic(이국적인 것)의 개념을 배제하려는 뉴스:
 
 ### CONSUMPTION - _Dining, Travel, Technology..._
 
+물질주의 사회에서 뉴스가 보도하는 것들: 1. 시장에 무엇이 있는지 2. 가격이 얼마인지 3. 좋은지
+
+그러나 우리는 물질주의적이지만은 않다. 우리는 물질을 통해서 얻고자 하는 여러가지 복잡한 심리적 목적을 가지고 있다.
+
+> (227p) We don't only want to _own_ things; we want to be _changed_ through our ownership of them.
+
+'식사 / 여행 / 기술 / 패션'의 분류보다 '유쾌함 / 차분함 / 회복 / 이성' 같은 분류가 필요하다
+
+종교에서 집에 구비한 물건과 종교적 가치를 결부시키는 것처럼, 물질적인 것과 정신적인 것을 분리하지 말고, 사람들의 진정한 니즈에 집중해야 한다.
+
 ---
 
 ### CONSUMPTION - _Culture_
+
+예술(문학, 음악, 영화, ...)의 치유적 기능 - 예술에 대한 리뷰 마지막에 '누구에게 이 예술이 효과 있을지' 약사처럼 적어준다면?
+
+현재 뉴스는 심리적 측면보다 promotional calendar(출시 계획에 따른 홍보)에 초점을 맞추며, '추천하지 않는 작품'에 대한 비판의 비중도 너무 높다
+
+> (239p) An awkward truth is that a large, even critical, part of the possible value of any work of art depends on the psychological situation of its audiences.
 
 ## VIII. CONCLUSION
 
