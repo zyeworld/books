@@ -5,11 +5,11 @@
 - `Publisher`: 알에이치코리아(RHK)
 - `Year`: 2021
 
-<img src="https://github.com/user-attachments/assets/9af1a6e8-4ddd-4d43-bf52-cbde47d72c9a" width="200px"></img>
+<img src="https://github.com/user-attachments/assets/9af1a6e8-4ddd-4d43-bf52-cbde47d72c9a" width="200px">
 
 ## 리뷰
 
-### 1-9장
+### 1 - 9장
 
 아무것도 모르는 채 깨어난 주인공이 지금 어디에 있는지 알아가는 것, 그리고 과거 기억을 떠올려가는 것을 번갈아 전개하는데 아주 재밌다.
 수수께끼 두 개를 동시에 풀게 하면서 질릴 틈 없이 혼을 쏙 뺀다.
@@ -70,6 +70,24 @@
 물론, 머리사인지 뭔지가 기억 안 나는 건 큰 문제는 아니다.
 10장이 되면 레전더리 신화급 캐릭터, 환상의 포켓몬 로키가 등장하기 때문이다.
 
-### 10-19장
+### 10 - 19장
+
+<img width="200" src="./Project_Hail_Mary_1.png">
+
+<br>
+
+<img width="200" src="./Project_Hail_Mary_2.png">
+
+<br>
+
+<img width="200" src="./Project_Hail_Mary_3.png">
+<img width="500" src="./Project_Hail_Mary_3_1.png">
+
+<br>
+<br>
+
+<img width="200" src="./Project_Hail_Mary_4.png">
+
+<img width="200" src="https://media1.tenor.com/m/Bi5t9IXWlEkAAAAd/funny-sad-emoji-getting-disintegrated-into-dust.gif">
 
 ### 20장 ~
