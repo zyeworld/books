@@ -1,6 +1,5 @@
 # Currently Reading &emsp; 현재 읽는 책
 
-- The News: A User's Manual - Alain de Botton `reread`
 - Sapiens: A Brief History of Humankind - Yuval Harari `first read`
 
 # Will Read &emsp; 앞으로 읽을 책
@@ -12,4 +11,11 @@
 
 # Have Read &emsp; 읽은 책
 
-(None)
+## Social sciences
+
+- [The News: A User's Manual - Alain de Botton](docs/Alain_de_Botton/The_News_A_Users_Manual.md)
+
+
+## Fantasy & SF
+
+- [Project Hail Mary - Andy Weir](docs/Andy_Weir/Project_Hail_Mary.md)
