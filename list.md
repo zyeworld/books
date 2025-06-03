@@ -1,5 +1,6 @@
 # Currently Reading &emsp; 현재 읽는 책
 
+- Chaos: Making a New Science - James Gleick `reread`
 - Sapiens: A Brief History of Humankind - Yuval Harari `first read`
 
 # Will Read &emsp; 앞으로 읽을 책
