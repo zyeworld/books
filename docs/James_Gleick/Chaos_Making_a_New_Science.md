@@ -24,7 +24,7 @@
 
 현대 카오스 이론의 시발점은 60년대 '나비효과'의 발견.
 
-## The Butterfly Effect
+## 1. The Butterfly Effect
 
 1960년 [Edward Lorenz](https://en.wikipedia.org/wiki/Edward_Norton_Lorenz)는 컴퓨터로 날씨 시뮬레이션을 만든다.
 
@@ -67,9 +67,11 @@
 
 [Lorenz Attractor](https://marksmath.org/visualization/LorenzExperiment/): 로렌츠의 시스템에서 각 변수들이 시간에 따라 어떻게 변하는지 궤적을 그려본 것. 단순한 모양을 그리지 않고 변화무쌍한 패턴을 보인다.
 
+- 로렌츠의 1963년 논문 [Deterministic Nonperiodic Flow](https://journals.ametsoc.org/view/journals/atsc/20/2/1520-0469_1963_020_0130_dnf_2_0_co_2.xml)
+
 당시에 이 연구는 즉시 널리 알려지지는 않았고, 이 연구가 매우 중요한 것이라 생각한 사람도 드물었다.
 
-## Revolution
+## 2. Revolution
 
 [Thomas S. Kuhn](https://en.wikipedia.org/wiki/Thomas_Kuhn)의 주장: 과학은 질문을 하고 답하면서 선형적으로 나아가는 학문이 아니다. 잘 알려진 문제를 재확인하는 대부분의 '일반적인' 과학이 있는가 하면, 혁명으로 이어지는 예외적이고 비일상적인 과학이 있다.
 
@@ -107,25 +109,43 @@ Benjamin Franklin 시절 전기를 대하듯이, 초기 카오스는 과학을 �
 
 한편 [Philip Marcus](https://scholar.google.com/citations?user=CHlcHGMAAAAJ&hl=en)는 시뮬레이션을 통해 목성의 대적점이 안정적으로 유지되는 것이 카오스 동역학계에서 가능함을 밝혔다.
 
-## Life's Ups and Downs
+## 3. Life's Ups and Downs
 
+생태계는 너무 복잡하여 수식으로 표현할 방법이 마땅치 않았음. 데이터를 기반으로 '올해의 개체수가 얼마면 내년의 개체수가 얼마다'라는 표를 만들어볼 수는 있었지만 이는 선형 관계로는 나타낼 수 없었음.
 
+- 개체수는 적을 때 잘 증가하고, 너무 많으면 포화되거나 감소함
+- 단순화하면 위로 볼록한 이차함수 꼴 (x=현재 개체수, y=내년 개체수)
+- Logistic difference equation(로지스틱 사상): `y = rx(1-x)` 꼴의 함수. (`r`은 성장률을 나타내는 상수 - '비선형성의 정도')
 
-## A Geometry of Nature
+특정 `x`값에 로지스틱 사상을 반복 적용하자. 그러면 처음 개체수에서 시간이 지나면서 개체수가 어떻게 바뀌는지가 쭉 나오게 된다. 그런데 `r`의 값에 따라 개체수는 하나로 수렴하기도 하고, 주기성을 가지고 왔다갔다하기도 하며, 수렴하지 않고 카오스적으로 변화하기도 한다.
 
-## Strange Attractors
+카오스 이론이라는 새로운 '언어'가 등장하기 이전에는 로지스틱 사상이 보이는 카오스적 성질은 전혀 주목을 받지 못했다. '안정적인 성질'만이 과학의 대상이었고, 그렇지 않은 것은 오류라고 간주되었을 것이다.
 
-## Universality
+수학자 [James Yorke](https://en.wikipedia.org/wiki/James_A._Yorke)는 1972년에 로렌츠의 논문(1장)을 접하고, 스메일(2장)을 비롯해 물리학계에 알린다. 요크는 물리학이 '미분방정식으로 나타내고 해를 구할 수 있는 문제'만 다루기 때문에 비선형 시스템을 등한시했다고 생각했다.
 
-## The Experimenter
+실상, 비선형 시스템은 일반적인 물리학에서 벗어난 일탈이 아니다. 오히려 자연의 대부분은 비선형이고, 우리의 물리학이 예외적으로 깔끔한 문제들을 다루고 있었다.
 
-## Images of Chaos
+> (68p) "(...) people have to know about disorder if they are going to deal with it. The auto mechanic who doesn't know about sludge in valves is not a good mechanic." (...) Scientists and nonscientists alike, Yorke believed, can easily mislead themselves about complexity if they are not properly attuned to it. Why do investors insist on the existence of cycles in gold and silver prices? Because periodicity is the most complicated orderly behavior they can imagine. When they see a complicated pattern of prices, they look for some periodicity wrapped in a little random noise. And scientific experimenters, in physics or chemistry or biology, are no different.
+>
+> "(...) 무질서를 다루려면 무질서에 대해 알아야 한다. 밸브에 쌓인 진흙에 대해 모르는 정비공은 좋은 정비공이 아니다." (...) 요크는 과학자든 비과학자든, 복잡성이란 것을 제대로 알지 못하면 오류에 빠지기 쉽다고 믿었다. 왜 투자자들은 금과 은 가격에 사이클이 있다고 주장하는가? 주기성을 띤 현상이 그들이 생각할 수 있는 질서정연한 현상 중 가장 복잡한 것이기 때문이다. 그들은 복잡한 가격의 패턴을 보고, 약간의 노이즈에 둘러싸인 어떤 주기성을 찾고자 한다. 그리고 실험과학자들도, 물리학이든 화학이든 생물학이든, 이와 다르지 않다.
 
-## The Dynamical Systems Collective
+TODO
 
-## Inner Rhythms
+## 4. A Geometry of Nature
 
-## Chaos and Beyond
+## 5. Strange Attractors
+
+## 6. Universality
+
+## 7. The Experimenter
+
+## 8. Images of Chaos
+
+## 9. The Dynamical Systems Collective
+
+## 10. Inner Rhythms
+
+## 11. Chaos and Beyond
 
 ## Afterword
 
