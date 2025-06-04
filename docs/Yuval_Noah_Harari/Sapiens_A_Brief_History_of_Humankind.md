@@ -552,14 +552,109 @@
 
 이유가 어찌됐건, 근 100년 간 성에 대한 사회적 관점(Gender)은 급격한 변화를 겪었다. 가부장제가 어째서 역사적으로 보편적이고 안정적이었는지 더욱 알 수 없는 이유이다.
 
-
 ## Part Three: The Unification of Humankind
 
 ### 9. The Arrow of History
 
+> 제목 의미: 역사에 화살처럼 방향성이 있는가?라는 물음을 나타냄
+
+**문화**: 사회가 점점 복잡해지며 형성된 '인공적인 본능'의 체계.
+
+- 20세기 초반까지는 하나의 문화는 '안정적인 것'으로 생각 (외부 충격이 없다면 문화가 쭉 유지됨)
+- 현재는 문화를 항상 변화하는 것으로 봄.
+
+어떤 인위적인 위계질서든지 **내적 모순**을 갖기 마련이고, 문화는 이를 해결하고자 하면서 변화함.
+
+- 예시 1: 중세 유럽 **기독교**와 **기사도**의 문화가 빚어낸 모순
+    - 십자군, Templar(성전 기사단), 'King Arthur'류 문학 등으로 전개됨.
+- 예시 2: 현대 정치에서 **자유**와 **평등**의 충돌
+
+이러한 모순은 모든 문화에 존재하며, 문화 발전의 원동력이 됨.
+
+> (184p) Cognitive dissonance is often considered a failure of the human psyche. In fact, it is a vital asset.
+>
+> 인지부조화는 보통 인간의 정신이 오작동한 것이라 여겨진다. 그러나 인지부조화는 사실 필수적인 덕목이다.
+
+#### 역사에 '방향성'은 있는가?
+
+100년 단위로 보면 Unify(통합)의 방향이 드러남.
+
+수많은 작은 세계가 점점 더 큰 '세계'로 통합됨.
+과거에는 호주 본토와 태즈메이니아 섬처럼 전혀 교류 없던 수많은 인간 집단이 존재했으나, 현재는 전 세계가 하나의 단위로 생각될 정도임. (하나의 경제 시스템 등)
+
+14-17세기를 기점으로, 그 이후 모든 문화권은 서로 교류하고 영향을 받았음 "**순수한 문화**"란 더 이상 없게 됨.
+
+- 예시: 많은 나라의 '전통음식'에는 해당 지역에서 유래하지 않은 식재료들이 쓰임.
+
+#### 기원전에 이미 생겼었던 Unity의 비전
+
+'Us VS Them'(우리 vs 그들)의 틀로 세상을 보는 일반적인 시각에서 벗어나, 전 인류를 하나의 단위로 보려 했던 상상들:
+
+1. Monetary order(돈의 질서)
+2. Imperial order(제국의 질서)
+3. Religious order(종교의 질서)
+
+> (191p) For the merchants, the entire world was a single market and all humans were potential customers. They tried to establish an economic order that would apply to all, everywhere. For the conquerors, the entire world was a single empire and all humans were potential subjects. and for the prophets, the entire world held a single truth and all humans were potential believers.
+>
+> 상인들에게 이 세상은 하나의 시장이었고 모든 인간들은 잠재적 고객이었다. 그들은 누구에게나, 어디서나 적용될 경제적인 질서를 세우고자 했다. 정복자들에게 이 세상은 하나의 제국이었고 모든 인간들은 잠재적 신하들이었다. 그리고 예언가들에게 이 세상은 하나의 진리를 갖고 있었고 모든 인간들은 잠재적 신도였다.
+
 ---
 
 ### 10. The Scent of Money
+
+> 제목 의미: 말 그대로 돈의 냄새.
+
+농경사회 초기 마을이 작을 때엔, 한 마을이 독립된 경제 단위로 존재했음. 전문직은 없었고, 약속에 기반한 거래와 물물교환만 있었음.
+
+국가 발생과 이동 수단 발전으로 **전문직**과 **특정 업종에 전문화된 마을** 생김. 복잡한 사회에서 물물교환은 한계가 있었고, **돈**이 생겨남.
+
+#### 돈의 특성(지폐 외에도 조개껍질부터 인터넷뱅킹까지 모두 포함)
+
+- 물물교환을 하려면 수많은 상품 간의 교환 비율을 다 알아야 한다. 돈이 있다면 각 상품이 돈으로 얼마인지만 알면 된다.
+- 돈이 있다면, 물물교환에서처럼 상대방의 물건을 원하지 않아 거래가 안 되는 일이 없다.
+- 부의 축적이 가능하다
+- 부의 이동이 쉽다 (비교 - 논밭 등)
+
+> (197p) Money is anything that people are willing to use in order to represent systematically the value of other things for the purpose of exchanging goods and services.
+>
+> 돈이란 여타 물건들의 가치를 체계적으로 표현하여 상품 · 서비스를 교환하기 위해 사람들이 쓰려는 것이라면 무엇이든 해당된다.
+
+#### 돈의 역사
+
+초기에는 돈이라는 상상된 가치를 믿을 만한 사회적 시스템이 구축되지 않았다. 따라서 실용성 있는 물건을 사용했다.
+
+- 3000 BCE 수메르의 [**보리** 돈](https://en.wikipedia.org/wiki/Sumer#Money_and_credit)
+
+이후에는 차츰 내재적 가치가 없는 돈을 사용하기 시작했다.
+
+- 메소포타미아의 은 [Shekel](https://en.wikipedia.org/wiki/Shekel) - 처음에는 동전의 형태가 아니고 '은 8.33그램 = 1셰켈' 식으로 무게를 잼
+- 640 BCE 리디아(현재 튀르키예 지역에 존재)의 왕 [Alyattes](https://en.wikipedia.org/wiki/Alyattes)가 **동전**을 사용하기 시작했음
+
+**동전**은 권력자가 인증한 것으로서, 그 위조는 곧 권위에 대한 반항으로 중대하게 생각되었다. 한편 이로서 권력자의 힘 역시 '동전에 달리게' 되었다.
+
+- 로마의 [Denarius](https://en.wikipedia.org/wiki/Denarius) 동전: 인도 지방에서까지 신뢰성을 얻고 쓰였다. 현재 중동 여러 나라가 쓰는 화폐인 Dinar의 이름도 이 영향이다.
+
+> (206p) People continued to speak mutually incomprehensible languages, obey different rulers and worship distinct gods, but all believed in gold and silver and in gold and silver coins.
+>
+> 이들은 계속 서로 알아듣지 못하는 언어를 쓰며, 서로 다른 지배자에게 복종하고 서로 다른 신을 섬겼지만, 모두 금과 은을, 금화와 은화를 믿었다.
+
+#### 어떻게 무역 과정에서 같은 돈을(금이라는 자원의 가치 등을) 믿게 되는가?
+
+화폐의 기반이 되는 금/은 등에 대한 수요 · 공급 법칙 때문에 결국은 시장이 평형을 이룸.
+금의 가치가 두 나라에서 비슷해진다는 말.
+지중해 사람들이 금의 가치를 믿는다는 사실 자체가 결국 인도인들도 금의 가치를 믿게 만든다는 것임.
+
+> (207p) (...) whereas religion asks us to believe in something, money asks us to believe that _other people believe in something._ (...) Money is the only trust system created by humans that can bridge almost any cultural gap, and that does not discriminate on the basis of religion, gender, race, age or sexual orientation.
+>
+> (...) 종교는 우리에게 무언가를 믿으라고 요구하는 데 반해, 돈은 우리에게 *다른 사람들이 뭔가를 믿는다는 것*을 믿으라고 요구한다. (...) 돈은 인간이 만든 믿음의 체계 중 유일하게, 거의 어떤 문화적 간극이든 넘을 수 있으며 종교나 성별, 인종, 나이, 성 정체성을 차별하지 않는 체계이다.
+
+#### 돈을 만든 대가
+
+돈은 Universal convertibility(다른 어떤 물건으로든 보편적으로 교환할 수 있음)와 Universal trust(돈에 기반하면 어떤 사람들이든 신뢰 관계를 만들 수 있음)의 원리를 담고 있다.
+이로써 대규모 협업을 가능하게 하지만, 또한 지역 문화와 인간적 가치를 **수요와 공급의 원리**로 바꾸어 놓는다. 부모는 자식을 노예로 팔았고, 전통 부족의 땅은 외국인들에게 팔렸다.
+돈은 신뢰 관계를 만들지만, 이 신뢰는 사람에 대한 것이 아닌 **돈 자체**에 대한 것이다. 돈이 없다면 신뢰도 사라진다.
+
+한편 경제적 논리만으로 인류 통합의 역사를 설명할 수는 없다. 금과 은뿐 아니라 **철**의 역할 역시 살펴보아야 한다.
 
 ---
 
