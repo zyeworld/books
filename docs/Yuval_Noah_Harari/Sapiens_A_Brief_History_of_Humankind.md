@@ -33,11 +33,9 @@
 
  
 
-## Part One: The Cognitive Revolution `인지 혁명`
+## Part One: The Cognitive Revolution *인지 혁명*
 
 ### 1. An Animal of No Significance
-
-> 제목 의미: 최초의 인간이 동물로서 가진 지위는 '별로 중요치 않았음'
 
 **종의 구별**: 짝짓기 가능하고 번식 가능한 새끼 낳으면 같은 종(種).
 
@@ -113,7 +111,7 @@
 
 ### 2. The Tree of Knowledge
 
-> 제목 의미: 인지 혁명으로 지식을 얻은 인간을 '선악과'를 먹은 것에 빗대 표현한 듯
+> ***제목 의미**: 인지 혁명으로 지식을 얻은 인간을 '선악과'를 먹은 것에 빗대 표현한 듯*
 
 10만 년 전 Sapiens와 7만 년 전 Sapiens 사이에 Cognitive Revolution이 일어났다?
 
@@ -160,7 +158,7 @@
 
 ### 3. A Day in the Life of Adam and Eve
 
-> 제목 의미: (2장과 비슷하게) 아담과 이브에 빗대어 최초의 Sapiens들의 생활 묘사
+> ***제목 의미**: (2장과 비슷하게) 아담과 이브에 빗대어 최초의 Sapiens들의 생활 묘사*
 
 #### 진화심리학
 
@@ -228,7 +226,7 @@
 
 ### 4. The Flood
 
-> 제목 의미: (2, 3장과 비슷하게) 노아의 방주에 빗대어 '인간들이 배를 타고 호주 진출한 것', 그리고 '여러 동물이 선택적으로 멸종한 것'을 중의적으로 의미하는 듯
+> ***제목 의미**: (2, 3장과 비슷하게) 노아의 방주에 빗대어 '인간들이 배를 타고 호주 진출한 것', 그리고 '여러 동물이 선택적으로 멸종한 것'을 중의적으로 의미하는 듯*
 
 #### 45,000년 전의 대사건: 아프리카-유럽-아시아 대륙에서 처음 떠나 호주에 도달.
 
@@ -260,11 +258,9 @@
 >
 > 우리의 조상들이 자연과 화합하며 살았다고 환경운동가들이 말한다면 믿지 말아라. 산업혁명 훨씬 전부터, 동식물을 가장 많이 멸종시킨 생명체로서 신기록을 세웠던 것이 *호모 사피엔스*이다.
 
-## Part Two: The Agricultural Revolution
+## Part Two: The Agricultural Revolution *농업 혁명*
 
 ### 5. History's Biggest Fraud
-
-> 제목 의미: 농업 혁명은 사상 최대의 사기극임
 
 #### 농업 혁명
 
@@ -329,7 +325,7 @@
 
 ### 6. Building Pyramids
 
-> 제목 의미: 이집트의 피라미드가 주제인 듯하지만, 사실 농경 사회에서 사회적 위계질서(피라미드)를 만들었다는 것이 주제
+> ***제목 의미**: 이집트의 피라미드가 주제인 듯하지만, 사실 농경 사회에서 사회적 위계질서(피라미드)를 만들었다는 것이 주제*
 
 #### 농경 사회가 되며 변화한 점
 
@@ -409,7 +405,7 @@
 
 ### 7. Memory Overload
 
-> 제목 의미: 컴퓨터의 메모리 과부하에 빗대어 '한 명이 기억하기에 정보가 너무 많은' 상황 설명. 또한 문자의 발명으로 '기억하고 생각하는 행위' 자체에 새로운 매개체가 생긴 것을 의미할 수도([Overloading](https://ko.wikipedia.org/wiki/%ED%95%A8%EC%88%98_%EC%98%A4%EB%B2%84%EB%A1%9C%EB%93%9C)).
+> ***제목 의미**: 컴퓨터의 메모리 과부하에 빗대어 '한 명이 기억하기에 정보가 너무 많은' 상황 설명. 또한 문자의 발명으로 '기억하고 생각하는 행위' 자체에 새로운 매개체가 생긴 것을 의미할 수도*([Overloading](https://ko.wikipedia.org/wiki/%ED%95%A8%EC%88%98_%EC%98%A4%EB%B2%84%EB%A1%9C%EB%93%9C)).
 
 대규모 협력을 위한 규칙은 한 사람이 전부 외우기에는 너무 복잡함. (비교: DNA에 따라 행동하는 개미의 협력)
 
@@ -449,8 +445,6 @@
 ---
 
 ### 8. There is No Justice in History
-
-> 제목 의미: 어느 문구에서 따 온 건지는 잘 모르겠음. 어쨌든 역사상 계속 존재해온 차별을 의미
 
 복잡한 사회에는 항상 '상상에 기반한 차별'이 존재해 왔다. (성별, 계급, 돈에 따라 차등을 두는...)
 
@@ -552,11 +546,11 @@
 
 이유가 어찌됐건, 근 100년 간 성에 대한 사회적 관점(Gender)은 급격한 변화를 겪었다. 가부장제가 어째서 역사적으로 보편적이고 안정적이었는지 더욱 알 수 없는 이유이다.
 
-## Part Three: The Unification of Humankind
+## Part Three: The Unification of Humankind *인류 통합*
 
 ### 9. The Arrow of History
 
-> 제목 의미: 역사에 화살처럼 방향성이 있는가?라는 물음을 나타냄
+> ***제목 의미**: "역사에 화살처럼 방향성이 있는가?"라는 물음을 나타냄*
 
 **문화**: 사회가 점점 복잡해지며 형성된 '인공적인 본능'의 체계.
 
@@ -601,8 +595,6 @@
 ---
 
 ### 10. The Scent of Money
-
-> 제목 의미: 말 그대로 돈의 냄새.
 
 농경사회 초기 마을이 작을 때엔, 한 마을이 독립된 경제 단위로 존재했음. 전문직은 없었고, 약속에 기반한 거래와 물물교환만 있었음.
 
@@ -660,6 +652,84 @@
 
 ### 11. Imperial Visions
 
+역사상 대부분의 문화는 제국의 손에 사라졌다.
+
+- 로마에 맞선 [Numantia](https://en.wikipedia.org/wiki/Numantia)는 현재 스페인 문화권에서 영웅시되기도 하는데, 이조차 로마에 의해 사라져 남겨진 문화도 거의 없고, 그 역사를 기록으로 남긴 것도 로마다.
+
+#### 제국의 특성
+
+- Cultural diversity(문화의 다양성) - 서로 다른 문화의 사람들 여러 종류가 있어야 함
+- Territorial flexibility(영토의 유연성) - 기본적 정체성을 유지하면서 영토를 확장할 수 있어야 함
+
+이 두 조건만 만족하면 되고, 발생 기원과 '황제' 존재 여부는 상관없다(민주주의였던 **대영 제국**). 크기도 상관없다(그리스보다 작았던 **아테네 제국**).
+크기가 작아도 제국으로 칠 수 있는 이유는 당시엔 작은 나라와 집단이 더 많았기 때문. 제국 등장 이후에는 이런 다양성이 대폭 감소했다.
+
+#### 통념적인 '제국주의 비판'에 대한 비판
+
+"제국이란 건 유지될 수 없다. 그렇게 많은 사람을 정복하고서 효과적으로 통치할 수 없다."라는 비판은 역사적으로 맞지 않는다.
+
+- 제국은 지난 2500년 간 가장 많았던 정치 형태다.
+- 대부분의 정복당한 민족은 반항하지 못했고, 제국은 유지되었다.
+- 현대에 주류가 된 언어, 문화, 예술 모두 다 제국에 의해 만들어졌다.
+
+> (216p) A significant proportion of humanity's cultural achievements owe their existence to the exploitation of conquered populations.
+>
+> 인류의 문화적 성취 중 상당 부분은 정복당한 민족들을 착취한 덕에 존재한다.
+
+#### '모두를 위한다'는 사상을 도입한 제국주의
+
+페르시아의 [키루스 2세](https://en.wikipedia.org/wiki/Cyrus_the_Great)부터, 제국은 **모두를 위해서** 모두를 통치한다는 믿음이 생겼다.
+'Us VS Them'의 관념에서 벗어나, 전 세계를 통합하고 전 인류를 위해 통치한다는 믿음.
+
+- 예시: 키루스 2세가 바빌로니아로 추방됐던 유대인들 해방시켜 예루살렘 성전 재건할 수 있게 함.
+- 예시2: 漢에서 하늘의 권한을 받아 오랑캐를 교화시키고 **天下**(하늘 아래 모두)를 다스린다는 믿음.
+
+> (220p) In contradiction to the modern Western view that a just world is composed of separate nation states, in China periods of political fragmentation were seen as dark ages of chaos and injustice.
+>
+> 정의로운 세상은 서로 독립적인 국가들로 이루어진 것이라는 현대 서구의 시각과 반대로, 당시 중국에서는 정치적으로 분열된 시기를 혼돈과 불평등의 암흑기로 여겼다.
+
+이러한 '모두를 위한다'는 이상은 이후 대부분의 제국은 물론 **현대 국가들**까지 이어진다.
+
+> (221p) Many Americans nowadays maintain that their government has a moral imperative to bring Third World countries the benefits of democracy and human rights, even if these goods are delivered by cruise missiles and F-16s.
+>
+> 현대의 많은 미국인들은 미국 정부가 제3세계 국가들에게 민주주의와 인권의 혜택을 전파할 도덕적인 의무가 있다고 생각한다. 그 전파가 순항미사일과 F-16기를 통해 이루어지더라도.
+
+#### 제국의 확장
+
+제국은 확장하면서 다양한 문화를 (없애기만 하는 것이 아닌) 흡수한다.
+그렇다고 정복된 자들이 원래 문화를 지킬 수 있는 건 아니었고, 제국의 일원으로 인정받기도 어려웠다.
+
+> (223p) One famous anecdote tells of an ambitious Indian who mastered the intricacies of the English language, took lessons in Western-style dance, and even became accustomed to eating with a knife and fork. Equipped with his new manners, he travelled to England, studied law at University College London, and became a qualified barrister. Yet this young man of law, bedecked in suit and tie, was thrown off a train in the british colony of South Africa for insisting on travelling first class instead of settling for third class, where 'coloured' men like him were supposed to ride. His name was Mohandas Karamchand Gandhi.
+>
+> 한 유명한 이야기에 나오는 인도인은 영어를 속속들이 통달하고, 서구식 춤 수업을 받고, 심지어 나이프와 포크로 식사하는 법도 익혔다. 그렇게 새로 예절을 배운 그는 영국으로 갔고, 런던 대학교에서 법학을 배우고, 바리스터 자격을 얻었다. 그러나 이 양복에 넥타이를 맨 법학과 젊은이는 영국의 식민지 남아프리카의 한 열차에서 1등 칸에 타기를 요청하다가 쫓겨났는데, 그와 같은 '유색인종'이 타야 할 3등 칸에 타지 않았기 때문이었다. 그의 이름은 모한다스 카람찬드 간디였다.
+
+**제국의 사이클**:
+- 제국의 문화가 만들어짐
+- 제국의 문화가 정복된 사람들에게 퍼짐
+- 정복된 사람들이 그 제국의 가치 아래 동등한 대우를 요구함
+- 제국을 세운 집단의 지배는 약해짐
+- 그러나 **제국의 문화**는 계속해서 번성함.
+
+> (225p) During the twentieth century, local groups that had adopted Western values claimed equality with their European conquerors in the name of these very values. Many anti-colonial struggles were waged under the banners of self-determination, socialism and human rights, all of which are Western legacies.
+>
+> 20세기 중, 서구적 가치를 채택한 현지의 집단들은 바로 그 가치의 이름 아래 유럽의 정복자들에게 평등을 요구했다. 많은 반(反)식민 운동은 민족 자결, 사회주의, 인권의 깃발 아래 펼쳐졌는데, 이들은 모두 서구의 유산이다.
+
+#### "제국주의의 잔재를 완전히 없애자"는 말은 설득력이 있는가?
+
+인도와 영국의 관계 예시:
+- "인도에 남은 대영 제국의 잔재"에는 민주주의, 사법/행정 제도, 철도, 공용어인 영어, 그리고 크리켓과 차(tea) 등 문화까지도 포함된다.
+- 이를 모두 없애 "진정한 인도의 문화"를 되찾으려 한다 해도, 대영 제국 이전에는 인도에 무굴 제국이 있었고, 그 이전에는 굽타 제국이 있었다. 즉 "제국주의에 오염되지 않은 순수한 문화"란 **사실상 없다**.
+
+> (230p) Nobody really knows how to solve this thorny question of cultural inheritance. Whatever path we take, the first step is to acknowledge the complexity of the dilemma and to accept that simplistically dividing the past into good guys and bad guys leads nowhere. Unless, of course, we are willing to admit that we usually follow the lead of the bad guys.
+>
+> 이렇듯 골치 아픈 문화적 유산의 문제를 해결하는 법은 아무도 모른다. 어떤 입장을 택하든, 먼저 이 딜레마가 복잡하다는 것을 인정하고, 역사를 착한 쪽(good guy)과 나쁜 쪽(bad guy)으로 단순하게 구분하는 것은 도움이 되지 않는다는 걸 이해해야 한다. 아니면, 우리가 대부분의 경우에 나쁜 쪽이 이끄는 대로 뒤따라왔다는 것을 받아들이거나.
+
+> ***자이**: 만약 누군가가 "일제도 Bad guy가 아니었다"라고 말한다면 주먹을 날릴 것이다. 그러니까 이 챕터에서 저자가 예시로 든 인도와 영국의 관계와, 19-20세기 우리나라와 일본의 관계가 어떻게 차이가 났는지 살펴볼 필요가 있다.*
+
+#### 미래에 대하여
+
+앞으로도 인류 대부분은 '다양한 집단으로 구성된 제국'의 일원이 되리라 예상한다. 현재 인류가 대면한 수많은 문제는 단일 국가가 해결할 수 없으며 대규모의 협업을 필요로 한다. 그 협업을 하게 되는 과정이 힘에 의해 이루어질까, 아니면 더 평화적인 방법을 인류가 찾아낼까? 지금까지 모든 제국이 약속했던 '모두를 위한 하나의 정치적 질서'는 전부 실패했다. 우리는 더 나은 길을 찾을 수 있을까?
+
 ---
 
 ### 12. The Law of Religion
@@ -669,7 +739,7 @@
 ### 13. The Secret of Success
 
 
-## Part Four: The Scientific Revolution
+## Part Four: The Scientific Revolution *과학 혁명*
 
 ### 14. The Discovery of Ignorance
 
