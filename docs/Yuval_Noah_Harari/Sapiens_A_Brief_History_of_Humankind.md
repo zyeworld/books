@@ -734,6 +734,52 @@
 
 ### 12. The Law of Religion
 
+#### 종교의 정의
+
+> (234p) A system of human laws that is founded on a belief in superhuman laws.
+>
+> **초(超)인간적인 법도**에 대한 믿음에 기반한 **인간의 법도**의 체계
+
+1. **체계**를 이룬 법도여야 함. "네잎클로버를 찾으면 행운이 온다"처럼 단순한 하나의 믿음은 종교가 아님.
+2. 그 체계가 **인간의 의지**가 아닌 **초인간적인 법도**에 따른다는 주장이 있어야 함. "축구의 규칙"처럼 인간이 좌우할 수 있는 체계는 종교가 아님.
+
+그 외에 역사상 "**널리 퍼진 종교**"의 특성:
+
+- 보편적(Universal): 해당 종교의 초인간적인 법도가 어디에나, 누구에게나 적용된다고 주장함.
+- 선교적(Missionary): 그 믿음을 모두에게 전파해야 한다고 주장함.
+
+위 두 특성은 현재 널리 퍼진 종교들에는 적용되지만, 역사상 대부분의 종교(지역 신앙 등)에는 적용 안 됨.
+
+#### 수렵 채집 시기의 애니미즘
+
+- 한 인간은 하나의 지역을 돌아다니며 살았기에, 해당 지역에 대한 신앙을 가짐
+- 인간을 자연의 일부로 봄. 동식물들은 소통이 가능한, 인간과 동등한 존재였음
+
+#### 농업 혁명 이후 다신교
+
+- 농업 혁명 이후 가축은 인간의 소유물로 간주됨.
+- 동식물이 소통 가능한 존재가 아니게 된 대신, 동식물과 인간 사이를 중재하는(인간이 자연을 부리도록 해 주는) 신을 믿음
+- 국가, 교역의 등장으로 한 종교의 법도가 적용되어야 할 지역이 크게 넓어짐
+- 애니미즘이 사라지지는 않았고 지역 신앙으로는 남았음
+
+#### 다신교의 특성
+
+- 다신교라고 온 우주를 관장하는 **하나의 힘**이 없는 것은 아니다. 그리스나 북유럽 신화에서 "운명", [요루바 종교](https://en.wikipedia.org/wiki/Yoruba_religion)의 "최고신 Olodumare", 힌두교의 "아트만" 등이 있다.
+- 그러나 다신교에 등장하는 절대적 신은 보통 **모든 것을 관장하는 힘**이기 때문에 어떤 것에도 간섭하지 않으며 **누구의 편도 들어주지 않는** 힘이다.
+- 그 아래의 여러 신들은 절대적 힘의 **일부분**을 담당하며, 그렇기 때문에 인간과 교류하고 **특정 문제에 도움**을 줄 수 있다.
+
+다신교가 **중립적인 절대적 힘**과 **각기 성향이 있는 부분적 힘**을 동시에 믿기 때문에, 서로 다른 신을 믿는 다신교도들이 비교적 문제 없이 융화될 수 있다.
+
+제국의 확장으로 다신교가 퍼질 때에도 점령된 이들의 종교는 보통 바뀌지 않았다. 다신교 로마 제국 VS 유일신 기독교의 경우에 로마가 기독교에 가한 박해도(약 300년간 최대 수천 명 정도가 처형됨. 황제가 직접 공개처형한 경우는 4건), 이후 역사에서 유일신 VS 유일신 상황에 비교하면 미미했다.
+
+> (241p) On 24 August 1572, French Catholics who stressed the importance of good deeds attacked communities of French Protestants who highlighted God's love for humankind. In this attack, the St Bartholomew's Day Massacre, between 5,000 and 10,000 Protestants were slaughtered in less than twenty-four hours. (...) More Christians were killed by fellow Christians in those twenty-four hours than by the polytheistic Roman Empire throughout its entire existence.
+>
+> 1572년 8월 24일, 선행의 중요성을 강조하는 프랑스 가톨릭교도들은 인류에 대한 하나님의 사랑을 강조하는 프랑스 개신교도들을 공격했다. [성 바르톨로메오 축일의 학살](https://ko.wikipedia.org/wiki/%EC%84%B1_%EB%B0%94%EB%A5%B4%ED%86%A8%EB%A1%9C%EB%A9%94%EC%98%A4_%EC%B6%95%EC%9D%BC%EC%9D%98_%ED%95%99%EC%82%B4)이라 하는 이 공격으로 24시간 이내에 5천에서 1만 명 사이의 개신교도들이 살해당했다. (...) 그 24시간 이내에 기독교도가 같은 기독교도를 죽인 것이, 다신교 로마 제국이 그 존속 기간을 통틀어 죽인 것보다 많았다.
+
+#### 유일신교
+
+
+
 ---
 
 ### 13. The Secret of Success
