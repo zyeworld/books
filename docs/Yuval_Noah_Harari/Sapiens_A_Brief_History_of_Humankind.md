@@ -69,6 +69,8 @@
 - -> 아이를 오래 밸 수 없게 되어 분만 시기 빨라짐?
 - -> 그만큼 아이를 출산 후 오래 돌봐야 해서, 아이 키우는 데에 사회적 상호작용 더 필요해짐?
 
+> ***자이**: 위에서 마지막 두 줄은 논문 내용인지 저자의 주장인지 잘 모르겠다. 여기서 저자가 제시한 참고자료는 [Ancient Bodies, Modern Lives](https://www.goodreads.com/book/show/8048896-ancient-bodies-modern-lives)라는 책인데 나중에 봐야겠다.*
+
 #### ◆ 뇌의 진화가 바로 엄청난 이득으로 이어진 건 아니었다
 
 - 최초의 인간의 장점은 '도구로 뼈를 부숴 골수를 먹을 수 있는 것' 정도 뿐이었다?
@@ -514,6 +516,7 @@
 문제:
 
 - 높은 지위와 물리적 힘의 상관관계가 불확실.
+- 여성이 더 강한 측면도 있음(지구력). 남성보다 센 여성도 있음.
 - 대부분의 여성은 역사적으로 '힘이 전혀 필요없는' 직업에서 배제됨.
 
 2. '공격성의 차이' 가설
@@ -541,6 +544,14 @@
     - 암컷은 도움을 얻기 위해 서로 끈끈한 사회적 관계를 유지하며 아기를 기르는 네트워크 형성
     - 수컷은 서로 경쟁하고 협력하지 않기 때문에 네트워크 밖으로 밀려남
 - 인간은 이들보다도 더 협력을 중요하게 생각하는 생물인데, 왜 모계 사회로 발달하지 않았나?
+
+> ***자이**: "가부장제의 생물학적 근거" 절에서 문제점으로 제시된 것들은 "코끼리/보노보" 논문 이외에는 저자의 주장으로 보인다([참고문헌 목록](https://www.ynharari.com/sapiens-references/)에 없음). 그런데 특히 **2. '공격성의 차이' 가설**의 문제점으로 제시된 것은 근거가 부족하다고 느껴졌다. 우선 "**흑인 노예와 백인 농장주**" 얘기는 비유로서는 말이 되지만, \[미국 목화밭이 만들어진 특수한 역사\]가 군대 지휘 계층이 만들어지는 원리랑 비슷한가? 이를 뒷받침할 근거가 더 필요할 것 같다. 또한 "**지휘층에 필요한 덕목은 공격성이 아니다**"는 주장이 있는데 다음과 같다.*
+>
+> (175p) Wars are not a pub brawl. (...) The ability to maintain peace at home, acquire allies abroad, and understand what goes through the minds of other people (particularly your enemies) is usually the key to victory. Hence an aggressive brute is often the worst choice to run a war. (...) Women are often stereotyped as better manipulators and appeasers than men, and are famed for their superior ability to see things from the perspective of others. If there's any truth in these stereotypes, then women should have made excellent politicians and empire-builders, (...)
+>
+> 전쟁은 술집 싸움이 아니다. (...) 나라의 평화를 유지하고, 해외에서 동맹을 만들고, 다른 이들이 (특히 적들이) 무슨 생각을 하는지 파악하는 능력이 보통 승리의 열쇠가 된다. 따라서 공격적인 야수에게 전쟁을 맡기는 건 보통 최악의 선택이다. (...) 통념적으로 여성들은 남성보다 남들을 조종하고 달래는 데 능하다고 여겨지고, 타인의 관점에서 사물을 보는 능력을 칭송받는다. 이러한 고정관념에 조금이라도 진실이 있다면, 여성들은 훌륭한 정치가, 제국의 설립자로 거듭났어야 하며, (...)
+>
+> ***자이**: 이 주장이 말이 되려면 일단 "**가장 전쟁 지휘에 적합한 사람이 지휘층이 된다.**"라는 전제가 참이어야 하는데, 그렇게 생각하기 어렵다. 애초에 이 챕터는 제목부터 **역사는 정의롭지 않다**고 하며, 해당 일을 잘하고 못하고와 상관없이 역사적으로 계속 특권을 누린 계층이 있다는 논지 아닌가? 또한 "**전쟁에서 승리의 열쇠가 되는 건 이러이러하다**" 부분도 근거 자료 없이는 주장으로서 부족한 것 같다. 무엇보다 "**통념적으로 여성들은 이러이러하다는데 그게 참이라면 여성들이 지휘층이 됐어야지 않나?**"라는 주장은 통념에 기반한 주장이므로 당연히 근거로서 부족하다. 그러니까 이 문단은 \[여성에 대한 통념을 믿으면서도, 남성이 전쟁 지휘에 적합하기 때문에 지휘층이 되었다고 믿는 사람\]을 반박하기 위해 쓰인 셈인데, **'공격성의 차이' 가설** 자체는 제대로 반박하지 못한 것 같다.*
 
 #### ◆ 현대의 변화
 
@@ -714,6 +725,8 @@
 >
 > 20세기 중, 서구적 가치를 채택한 현지의 집단들은 바로 그 가치의 이름 아래 유럽의 정복자들에게 평등을 요구했다. 많은 반(反)식민 운동은 민족 자결, 사회주의, 인권의 깃발 아래 펼쳐졌는데, 이들은 모두 서구의 유산이다.
 
+> ***자이**: 이 **제국의 사이클 가설**에 따르면, 앞에서 저자가 비판한 "**제국이라는 건 유지될 수 없다**"란 주장에 오히려 설득력이 생길 수도 있겠다. 특히 **자유로울 권리**와 같은 문화가 있는 현대 국가에서 제국주의를 실현하려고 하면, 정복한 집단들에게 바로 그 문화가 전파되면서 그들도 독립할 권리를 주장하게 되고, 결국 제국이 무너진다는 느낌.*
+
 #### ◆ "제국주의의 잔재를 완전히 없애자"는 말은 설득력이 있는가?
 
 인도와 영국의 관계 예시:
@@ -806,6 +819,8 @@
 >
 > 그러니까 유일신교는 질서는 설명하지만 악을 어려워 하고, 이원론은 악은 설명하지만 질서를 어려워 한다. 논리적으로 이 수수께끼를 푸는 방법이 한 가지 있다. 우주를 창조한 단 하나의 전능한 신이 있으며, 그가 악하다는 것. 그러나 이런 믿음을 주장할 강단이 있는 자는 역사에 없었다.
 
+> ***자이**: "**질서의 문제**"는 저자가 만든 용어 같은데... 이원론에서 왜 질서의 문제에 대답이 어려운지 잘 이해를 못 했다. 위 요약에서는 최대한 풀어서 써 봤다.*
+
 이원론적 종교의 예시: 조로아스터의 가르침이 전승된 [조로아스터교](https://en.wikipedia.org/wiki/Zoroastrianism). 중동 지역에 널리 퍼졌고, 이후 [영지주의](https://en.wikipedia.org/wiki/Gnosticism)와 [마니교](https://en.wikipedia.org/wiki/Manichaeism)에 영향 주었다. 현재는 매우 소수만 남았다.
 
 기독교, 이슬람교 등 유일신교는 이원론을 흡수하였다.
@@ -864,11 +879,43 @@
 
 1. [사후 확증편향](https://en.wikipedia.org/wiki/Hindsight_bias)(Hindsight Fallacy)
 
+역사는 **How**는 설명하지만 **Why**는 설명하지 않는다. 예컨대 기독교가 로마의 국교가 되기까지 있었던 과정은 설명하지만, **왜 다른 무엇도 아닌 기독교가 국교가 되었는지**는 알 수 없다. 생물학, 경제, 환경 등을 동원해 이유를 설명하려는 이들도 있지만, 역사학자들은 회의적이다.
 
+> (266p) This is one of the distinguishing marks of history as an academic discipline -- the better you know a particular historical period, the *harder* it becomes to explain why things hapened one way and not another.
+
+무엇보다도, **당시에 살았던 사람들**이 그 당시의 역사를 가장 몰랐을 것이다. 우리도 앞으로 세계 정세가 어떻게 바뀔지 모르지 않는가. **현재**에는 **미래**에 대해 수많은 이론이 존재하는데 각자 타당해 보이는 근거가 있다. **미래**가 되어서 되돌아보면 그제서야 뻔한 정답이 있었다는 착각이 들 것이다.
+
+기독교가 로마의 국교가 된 것, [볼셰비키](https://ko.wikipedia.org/wiki/%EB%B3%BC%EC%85%B0%EB%B9%84%ED%82%A4)가 소련을 장악한 것 등등 "**상상도 못한 일**"이 일어나는 경우는 역사에 많았다.
+
+정세의 변화에는 지리적, 생물학적, 경제적 **제약**이 따르지만, 이 제약 안에서 일어날 수 있는 일의 범위는 **상당히 넓기** 때문에 역사가 어떤 결정된 길을 따라간다고 보기는 힘들다.
+
+> (267p) This conclusion disappoints many people, who prefer history to be deterministic. Determinism is appealing because it implies that our world and our beliefs are a natural and inevitable product of history. (...) To acknowledge that history is not deterministic is to acknowledge that it is just a coincidence that most people today believe in nationalism, capitalism and human rights.
+
+역사는 결정론적으로 설명될 수 없고, **카오스적**이기 때문에 예측될 수 없다.
+
+> ***자이**: 여기에서 저자는 "**1차 카오스계 / 2차 카오스계**" 라는 용어를 쓰며 설명하는데... 저자가 만든 용어 같으며 과학적으로 부정확하다. 카오스에 대해서는 **James Gleick의 책**을 참고.*
+
+> (269p) So why study history? Unlike physics or economics, history is not a means for making accurate predictions. We study history not to know the future but to widen our horizons, to understand that our present situation is neither natural nor inevitable, and that we consequently have many more possibilities before us than we imagine.
 
 2. 눈먼 [클레이오](https://en.wikipedia.org/wiki/Clio)(Blind Clio)
 
+역사는 인류의 웰빙을 증진시키는 방향으로 흘러가지 않는다. 인류에게 가장 도움이 되는 문화는 퍼지고 그렇지 않은 문화는 사라진다는 근거는 없다. 역사의 승리자들은 자신들의 가치가 인류에게 더 도움이 되었다고 주장할 수 있지만, 애초에 인류에게 도움이 되는 정도를 측정할 척도는 없다.
 
+**문화**를 **감염병**에 비유:
+- 감염 인자(바이러스 등)는 인간에게서 인간으로 퍼지는데, **자기 자신이 퍼질 수만 있다면** 숙주의 웰빙에는 관심없으며 숙주를 죽이기도 한다.
+- **문화적 아이디어**도 인간(의 머릿속)에게서 인간으로 퍼지는데, 가장 잘 퍼지는 문화는 \[인간의 웰빙을 증진시키는 문화\]가 아닌 그냥 **어쩌다가 가장 잘 퍼지는 문화**다.
+
+> (270p) According to this approach, (...) cultures are mental parasites that emerge accidentally, and thereafter take advantage of all people infected by them.
+
+이러한 시각의 연구를 **문화 구성 요소학**(Memetics)이라 한다.
+- **유전자**(Gene) 단위로 생물의 진화가 일어나는 것처럼, **밈**(Meme)이라는 문화적 단위로 문화의 진화가 일어난다는 것.
+- 학계에서는 과학과 문화를 서툴게 접목한 것이라고 Memetics를 비판하기도 한다.
+- 그러나 **포스트모더니즘**의 **담론**이라는 개념도 사실 Meme과 비슷하다.
+- **게임 이론**에서도 여러 명의 플레이어 사이에서 **모두에게 해가 되는 전략**이 잘 퍼지기도 한다는 연구 등 비슷한 개념이 있다. (**군비 경쟁**과 비슷.)
+
+> (271p) Like evolution, history disregards the happiness of individual organisms. And individual organisms, for their part, are usually far too ignorant and weak to influence the course of history to their own advantage.
+
+1500년대에 **과학 혁명**이 일어난 것도, **왜** 그 시기, 그 지역에서 일어났는지 설명하기는 어렵다. 그저 우연이라고 볼 수도 있다.
 
 ## Part Four: The Scientific Revolution *과학 혁명*
 
