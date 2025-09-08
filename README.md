@@ -6,7 +6,7 @@
 
 ## 이 프로젝트는 무엇인가?
 
-> &ldquo;**아이고!** 몇 년 전에 읽은 책 내용도 하나도 기억을 못하겠네!&rdquo;
+> &ldquo;아이고! 몇 년 전에 읽은 책 내용도 하나도 기억을 못하겠네!&rdquo;
 
 - **솔루션**: 이제부터는 읽을 때 노트 필기하기, 나중에 복습하기
 
@@ -45,7 +45,7 @@
 
 ## What is this project?
 
-> &ldquo;**Oh no!** I can't remember _anything_ from all the books I've read a few years ago!&rdquo;
+> &ldquo;Oh no! I can't remember _anything_ from all the books I've read a few years ago!&rdquo;
 
 - **Solution**: From now on, take notes when reading. Review them afterwards.
 
