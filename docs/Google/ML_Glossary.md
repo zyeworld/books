@@ -107,6 +107,24 @@ Result (4d array):  8 x 7 x 6 x 5
 
 온도 -> 더운가? 따뜻한가? 추운가?처럼 한 feature을 여러 binary feature로 바꾸기
 
+### Candidate sampling
+
+- 정답은 항상 정적 강화하되 오답은 (일부만 추려서) 가끔가다만 부적 강화하기
+- ex: 개 사진 보여주고 이 사진이 뭐냐? -> '개' 수치는 높아야 하고 나머지 수치는 낮아야 함 -> 나머지 수치(고양이, 사람, 나무...) 중에서는 일부만 랜덤으로 뽑아서 평가하기
+
+### Chain-of-thought prompting
+
+> How many g forces would a driver experience in a car that goes from 0 to 60 miles per hour in 7 seconds? **In the answer, show all relevant calculations.**
+
+- 정답이 말이 되는지 우리가 더 잘 파악 가능
+- 주의: 이게 모델의 interpretability를 높여주는 건 아님. (LLM이 black box model임은 여전)
+
+### Class-imbalanced dataset
+
+데이터셋에 각 label에 해당하는 데이터 개수가 현저히 다른 경우 `<-> class-balanced`
+
+- 해결법: 각 batch에 class가 골고루 들어가도록, 다수인 class를 downsampling하고 upweight하기(개수 줄인 대신 틀리면 더 큰일나게)
+
 ### Clustering
 
 - Centroid-based clustering: 체계 없음
@@ -115,13 +133,68 @@ Result (4d array):  8 x 7 x 6 x 5
     - Agglomerative: 모으기
     - Divisive: 쪼개기
 
+### Co-adaptation
+
+어떤 뉴런이 (전체적인 신경망이 아닌) 특정 뉴런들 몇 개의 출력값에만 좌우되는 문제. 오버피팅으로 이어질 수 있음.
+
+- 해결법: Dropout regularization으로 뉴런 무작위로 없애가며 학습
+
+### Collaborative filtering
+
+다른 사람들 데이터로 내 관심사 예측하기
+
+### Concept drift
+
+세상이 바뀌어서 모델 예측 수준이 떨어지는 것. 어떤 특성이 시간에 따라 고정성을 가지지 않으면 일어남(nonstationarity).
+
+### Confabulation
+
+허담증(자기의 공상을 실제의 일처럼 말하면서 자신은 그것이 허위라는 것을 인식하지 못하는 정신병적인 증상). AI Hallucination(환각)과 같은 뜻이지만 보다 적합한 용어.
+
+### Configuration
+
+모델 레이어나 하이퍼파라미터 등 설정하기
+
+- [HParam](https://www.tensorflow.org/tensorboard/hyperparameter_tuning_with_hparams)
+- [Gin](https://github.com/google/gin-config)
+- [Fiddle](https://github.com/google/fiddle)
+
+### Constituency parsing
+
+문장을 문법 요소로 쪼개기
+
+### Context window
+
+프롬프트를 토큰 몇 개까지 처리할 수 있는지
+
+### Conversational coding
+
+그냥 바이브코딩을 더 있어보이게 한 말
+
+### Crash blossom
+
+중의적인 의미를 가진 문구
+
+### Fairness metric
+
+공평성에 대한 측정 가능한 척도. 인종 같은 사회적으로 민감한 특성(sensitive attribute)을 다룰 때 씀. 각각의 척도는 상충하기도 함(incompatible).
+
+- Equality of opportunity: 각 그룹에 대해 True positive rate가 같아야 함 (positive가 좋은 결과라 했을 때)
+- Equalized odds: 각 그룹에 대해 True positive rate와 False positive rate가 같아야 함
+- Predictive parity: 각 그룹에 대해 Precision이 같은가
+- Counterfactual fairness: Sensitive attribute만 바꿨을 때 예측 결과가 똑같은가
+- Demographic parity: (결과 전체적으로) Sensitive attribute와 결과가 독립인가
 
 ## ML Glossary에 나와 있는 참고자료
 
 - AdaGrad: [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](https://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
 - BERT: [Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language Processing](https://research.google/blog/open-sourcing-bert-state-of-the-art-pre-training-for-natural-language-processing/)
 - BLEU: [BLEU: a Method for Automatic Evaluation of Machine Translation](https://aclanthology.org/P02-1040.pdf)
-
+- Convex optimization: [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+- Co-training: [Combining Labeled and Unlabeled Data with Co-Training](https://www.cs.cmu.edu/%7Eavrim/Papers/cotrain.pdf)
+- Counterfactual fairness: [When Worlds Collide: Integrating Different Counterfactual Assumptions in Fairness](https://papers.nips.cc/paper/2017/file/1271a7029c9df08643b631b02cf9e116-Paper.pdf)
+- Fairness Metric: [Fairness Definitions Explained](https://fairware.cs.umass.edu/papers/Verma.pdf)
+- Incompatibility of Fairness Metrics: [On the (im)possibility of fairness](https://arxiv.org/pdf/1609.07236)
 
 ## 오탈자 / 오개념 수정 리스트
 
@@ -136,6 +209,14 @@ and the following text "where n is the number of relevant items in the list" sho
 ### black box model>
 
 title includes unnecessary '>'.
+
+### condition
+
+Part of the definition is missing. It may be edited like "In a decision tree, any node that **is not an endpoint. For example, the following** decision tree contains two conditions:"
+
+### early stopping
+
+"Contrast with early exit" links to a non-existing entry of "early exit".
 
 ### precision at k (precision@k)
 
