@@ -22,6 +22,14 @@
 - ROC curve `= AUC`: threshold에 따른 (False Positive Rate, True Positive Rate) 그래프
     - Receiver-Operating Characteristic이란 말은 2차세계대전 때 레이더 탐지 분야에서 나왔다 한다
 
+### Artificial general intelligence
+
+> A non-human mechanism that demonstrates a *broad* range of problem solving, creativity, and adaptability.
+
+### Artificial intelligence
+
+> A non-human program or model that can solve sophisticated tasks
+
 ### Autoencoder
 
 - 고차원 입력 `-> Encoder ->` 저차원 데이터 `-> Decoder ->` 원본 최대한 복원하기.
@@ -175,6 +183,64 @@ Result (4d array):  8 x 7 x 6 x 5
 
 중의적인 의미를 가진 문구
 
+### Data analysis
+
+> Obtaining an understanding of data by considering samples, measurment, and visualization.
+
+### Data parallelism
+
+(모델 크기가 작을 때) 모델 전체를 여러 장치에 복사해 학습/추론 과정 병렬화. (더 빠름)
+
+비교 - Model parallelism: (모델 크기가 클 때) 모델을 여러 부분으로 쪼개 여러 장치에 나누어 담아 학습/추론 과정 병렬화. (더 느림)
+
+### Decision forest
+
+Decision tree들을 합쳐서 예측하기
+
+- Random forest
+- Gradient boosted tree
+
+### Deep model(Deep neural network)
+
+> A neural network containing more than one hidden layer
+
+### Denoising
+
+노이즈를 입힌 데이터에서 원래 데이터를 예측하는 모델 학습시키기(self-supervised learning. masked language model 등)
+
+### Depth
+
+입력 레이어 빼고 hidden, output, embedding 레이어 개수 합
+
+### Differential privacy
+
+개별 데이터에 있는 민감한 정보를 모델에 학습시키지 않기 위해 노이즈 추가 등 하기
+
+### Direct prompting
+
+Zero-shot prompting.
+
+### Discriminative model
+
+Label을 예측하는 모델. 분류나 회귀 모델 전부 포함. vs. Generative model.
+
+### Disparate impact
+
+어떤 결정이 여러 인간 집단에 주는 영향이 다른 상황. (각 집단을 차별해서 그 결정을 한 건지는 중요하지 않음)
+
+### Disparate treatment
+
+사회적으로 민감한 특성(sensitive attirubte)을 의사결정 과정에서 보는 요소 중 하나로 넣어서, 여러 인간 집단을 차별하게 되는 상황.
+(민감한 특성 자체가 아니더라도 그 proxy가 되는 특성이 들어가 있을 수도 있음)
+
+### Distillation
+
+큰 모델(teacher)을 작은 모델(student)로 따라하기
+
+### Dynamic
+
+= Online. 무언가를 자주/계속적으로 할 때 씀. Dynamic model(계속 재학습시키는 모델) / Dynamic training(자주 학습시키기) / Dynamic inference(요청 있을 때마다 예측값 내기)
+
 ### Fairness metric
 
 공평성에 대한 측정 가능한 척도. 인종 같은 사회적으로 민감한 특성(sensitive attribute)을 다룰 때 씀. 각각의 척도는 상충하기도 함(incompatible).
@@ -193,8 +259,11 @@ Result (4d array):  8 x 7 x 6 x 5
 - Convex optimization: [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 - Co-training: [Combining Labeled and Unlabeled Data with Co-Training](https://www.cs.cmu.edu/%7Eavrim/Papers/cotrain.pdf)
 - Counterfactual fairness: [When Worlds Collide: Integrating Different Counterfactual Assumptions in Fairness](https://papers.nips.cc/paper/2017/file/1271a7029c9df08643b631b02cf9e116-Paper.pdf)
+- Dropout regularization: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 - Fairness Metric: [Fairness Definitions Explained](https://fairware.cs.umass.edu/papers/Verma.pdf)
 - Incompatibility of Fairness Metrics: [On the (im)possibility of fairness](https://arxiv.org/pdf/1609.07236)
+- sepCNN: [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/pdf/1610.02357)
+- Inception: [inception](https://github.com/tensorflow/tpu/tree/master/models/experimental/inception)
 
 ## 오탈자 / 오개념 수정 리스트
 
@@ -221,4 +290,8 @@ Part of the definition is missing. It may be edited like "In a decision tree, an
 ### precision at k (precision@k)
 
 In the example at the end, "Four of the first five movies are very funny" should be changed to "Three of the..." according to the data. The equation that follows must be edited too.
+
+### Q
+
+The link `https://developers.google.com/machine-learning/glossary#q` doesn't lead to the anchor point `Q` in the glossary, but rather the search query box.
 
