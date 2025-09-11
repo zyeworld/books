@@ -241,6 +241,65 @@ Label을 예측하는 모델. 분류나 회귀 모델 전부 포함. vs. Generat
 
 = Online. 무언가를 자주/계속적으로 할 때 씀. Dynamic model(계속 재학습시키는 모델) / Dynamic training(자주 학습시키기) / Dynamic inference(요청 있을 때마다 예측값 내기)
 
+### Earth mover's distance(EMD)
+
+두 분포의 유사성 측정 지표. 그래프가 쌓인 흙(Earth)이라 생각하고 한 그래프에서 다른 그래프를 만드려면 흙을 얼마나 옮겨야 하나(양 * 거리) 측정. 확률분포의 경우 "Wasserstein 거리 W_1"과 같은 말.
+
+### Edit distance
+
+두 문자열의 유사성 측정 지표.
+
+- Levenshtein distance: 한 문자열에서 다른 문자열을 만드려면 삽입/삭제/치환 연산을 최소 몇 번 해야 하나.
+
+### Einsum notation
+
+Einstein summation. 텐서 곱셈 쉽게 나타내기. [참고](https://ita9naiwa.github.io/numeric%20calculation/2018/11/10/Einsum.html)
+
+```python
+# A의 차원, B의 차원, ... -> 결과 차원
+np.einsum('ik,kj->ij', A, B) # matmul
+torch.einsum('ik,kj->ij', [A, B])
+np.einsum('ij,j->i', A, x) # matrix * vector
+np.einsum('i,i->', x, y) # vector dot product
+np.einsum('i,j->ij', x, y) # vector cross product
+np.einsum('ij->', A) # sum
+np.einsum('ij->i', A) # sum the 2nd dimension ([[1,2],[3,4]] -> [3,7])
+np.einsum('ij->ji', A) # transpose
+np.einsum('ii->', A) # trace
+```
+
+### Embedding
+
+고차원 데이터(많은 라벨의 자료가 one-hot encoding된 입력 벡터 등)를 저차원으로 표현하기.
+
+- 비교 - Hashing: 많은 라벨을 적은 라벨에 그냥 나누어 담기(해시 충돌 발생해도 신경 X)
+
+### Entropy
+
+확률분포 `p(x)`에 대해 `H(p) = -p(x) log p(x)의 합`. 두 가지 값으로 이루어진 집합에서 `-a log(a) -(1-a)log(1-a)`. a=0.5일 때 1.
+
+- Information gain: Decision forest에서 [한 노드의 엔트로피]와 [그 자식들의 엔트로피 가중평균]의 차이. 최대화해야 좋음.
+
+- Gini impurity: 두 가지 값으로 이루어진 집합에서 `1 - (a^2 + (1-a)^2)`. a=0.5일 때 0.5.
+
+- Cross-entropy: 두 확률분포 `p(x), q(x)`에 대해 `H_p(q) = -q(x) log p(x)의 합`. 확률분포 간 차이의 지표.
+
+- Kullback-Leibler divergence: `D_KL(q||p) = H_p(q) - H(q)`. Cross-entropy와 entropy 차이. 항상 0 이상. 보통 q에 실제 확률분포, p에 예측한 확률분포를 넣고 차이를 보는 지표.
+
+### Epsilon greedy policy
+
+Random policy를 따를 확률이 `e`이고 Greedy policy를 따를 확률이 `1-e`인 policy. Episode(Agent가 환경을 학습하려는 시도)를 여러 번 거치며 e를 점차 낮춤. (일단 맘대로 탐색하고 나중에 진지하게 하기)
+
+### Evaluation
+
+Validation set이나 Test set으로 성능 측정하기. 또는 LLM 모델 성능 측정.
+
+### Exploding gradient problem
+
+RNN 등에서 gradient가 매우 커지는 문제. 해결책: Gradient clipping(최댓값 제한) 등.
+
+- 비교 - Vanishing gradient problem: 앞쪽에 있는 hidden layer들의 gradient가 매우 작아지는 문제. 해결책: Long Short-Term Memory, Auxiliary loss 등.
+
 ### Fairness metric
 
 공평성에 대한 측정 가능한 척도. 인종 같은 사회적으로 민감한 특성(sensitive attribute)을 다룰 때 씀. 각각의 척도는 상충하기도 함(incompatible).
