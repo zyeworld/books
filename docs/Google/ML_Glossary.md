@@ -358,6 +358,46 @@ LLM 학습시키는 동안 학습률을 확 감소시켜서 오버피팅 막기
 
 모델이 생성한 텍스트(코드나 수학 등) 중 성공적인 것의 비율
 
+### Generalization curve
+
+Iteration에 따른 training loss와 validation loss 그래프.
+
+### Generative Adversarial Network (GAN)
+
+학습 데이터랑 비슷한 데이터 만들기. Generator로 데이터 만들고 Discriminator로 그게 적절한지 확인
+
+### Generative AI
+
+> (정확한 정의는 없지만) An AI model that can create content that is complex, coherent, and original.
+
+### Golden dataset
+
+현실(ground truth)을 반영하도록 직접 큐레이팅한 데이터.
+
+- Golden response: 골든정답 (이보다 덜하거나 더 좋은 걸 silver / platinum response라 하기도 함)
+
+### Gradient accumulation
+
+한 Batch 끝나고서는 gradient 변화 반영 안 하고 누적만 하다가 Epoch 끝나고서 반영하기.
+배치 크기가 클 때 메모리 문제 없이 학습하려고 씀.
+
+### Heuristic
+
+> A simple and quickly implemented solution to a problem.
+
+### Hill climbing
+
+하이퍼파라미터 같은 거 조금씩 바꿔가며 더 나은 모델 만들기. 더 나은 모델이 안 나오면 멈춤. [참고](https://developers.google.com/machine-learning/guides/deep-learning-tuning-playbook)
+
+### Hinge loss
+
+Binary classification이면 `y`가 실제 값, `y'`이 예측 값일 때 `max(0, 1 - (y*y'))`. Kernel Support Vector Machine(KSVM)에 사용.
+
+### Human in the loop(HITL)
+
+1. 생성형 AI의 출력을 비판적으로 보는 것
+2. 사람이 모델의 행동에 관여해 도움을 주는 것 (ex: AI가 만든 코드를 사람이 리뷰)
+
 ### Zero-shot learning
 
 학습하지 않은 과제에 대해 추론하라고 하는 것.
