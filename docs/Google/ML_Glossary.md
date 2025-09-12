@@ -15,6 +15,7 @@
 - Accuracy(정확도): 얼마나 맞췄냐
 - Precision(정밀도): 참이라고 예측한 것 중에 얼마나 진짜 참이냐
 - Recall(재현율): 진짜 참인 것 중에 얼마나 참이라고 예측했냐
+- F1: (2 * precision * recall) / (precision + recall)
 
 ### Area under the...
 
@@ -300,6 +301,12 @@ RNN 등에서 gradient가 매우 커지는 문제. 해결책: Gradient clipping(
 
 - 비교 - Vanishing gradient problem: 앞쪽에 있는 hidden layer들의 gradient가 매우 작아지는 문제. 해결책: Long Short-Term Memory, Auxiliary loss 등.
 
+### Factuality
+
+사실성. 사실에 기반했는지.
+
+- 비교 - Groundedness: 특정 입력 데이터를 주었을 때 그 데이터에 기반했는지.
+
 ### Fairness metric
 
 공평성에 대한 측정 가능한 척도. 인종 같은 사회적으로 민감한 특성(sensitive attribute)을 다룰 때 씀. 각각의 척도는 상충하기도 함(incompatible).
@@ -309,6 +316,80 @@ RNN 등에서 gradient가 매우 커지는 문제. 해결책: Gradient clipping(
 - Predictive parity: 각 그룹에 대해 Precision이 같은가
 - Counterfactual fairness: Sensitive attribute만 바꿨을 때 예측 결과가 똑같은가
 - Demographic parity: (결과 전체적으로) Sensitive attribute와 결과가 독립인가
+
+### Fast decay
+
+LLM 학습시키는 동안 학습률을 확 감소시켜서 오버피팅 막기
+
+### Federated learning
+
+스마트폰 등 여러 장치에 모델을 복사해 학습을 시킨 다음, 모델만 중앙 서버로 보내 업데이트하기. 장치에 있는 데이터는 서버에 보내지지 않음.
+
+- Secure aggregation: 개별 장치에서 학습한 모델은 zero-sum mask로 암호화되어 중앙 서버로 보내지고, 그것들이 전부 합쳐진 결과만 복호화가 가능.
+    - [Practical Secure Aggregation for Privacy-Preserving Machine Learning](https://research.google/pubs/practical-secure-aggregation-for-privacy-preserving-machine-learning/)
+
+- Differential privacy: 모델이 특정 장치에만 있는 특별한 정보를 외우는(model memorization) 걸 줄이기 위해 희귀한 데이터를 필터링하는 등.
+    - [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/privacybook.html)
+
+> [구글에서 제공하는 Federated Learning 만화](https://federated.withgoogle.com/).
+> 음, 이걸 읽으면 참 비즈니스 연구자의 관점은 소비자가 느끼는 바와 다르다는 생각이 든다.
+> 코미디 만화인 건 알겠는데, 화려해 보이는 기술 이름이 나오면 무조건 도입하는 상사가 나오고... 모든 이용자에게 영향을 줄 서비스를 만드는데 보안 같은 거 모르는 인턴들로 팀을 꾸리고... "(머신 러닝에) 가장 좋은 데이터는 바로 여기, 우리들이 매일 쓰는 휴대폰 안에 있다" 같은 대사가 나오고...
+> 일부러 이 기술을 못 미더워 보이게 만드려고 만화가가 수작을 부렸나? 싶을 정도다.
+
+### Feedback loop
+
+모델이 내놓는 결과가 나중에 어떤 식으로라도 입력 데이터에 영향을 주는 상황.
+
+### Feedforward neural network
+
+초기 Deep neural network처럼 뒤에서 앞으로 cyclic하게 연결된 경우가 없는 신경망. (반대로는 RNN 등)
+
+### Fine-tuning
+
+- Full fine-tuning: 모든 파라미터 수정
+- Parameter-efficient tuning: 일부 파라미터만(보통 출력 레이어 근처) 수정
+- 그 외: 출력 레이어 근처 레이어 개수 늘리기 등
+
+- Prompt tuning: 실제 프롬프트에 prefix 다는 것 학습. 보통 입력 레이어에만 달음.
+- Prefix tuning: 모든 레이어에 prefix 달기.
+- Instruction tuning: (생성형 AI에서) 여러 과제에 대한 지시 프롬프트로 zero-shot prompt 능력 키우기
+
+### Fraction of successes
+
+모델이 생성한 텍스트(코드나 수학 등) 중 성공적인 것의 비율
+
+### Zero-shot learning
+
+학습하지 않은 과제에 대해 추론하라고 하는 것.
+
+- One-shot learning: 예시 단 하나로 분류 모델 학습시키기
+- Few-shot learning: 예시 몇 개로.
+
+### Zero-shot prompting
+
+LLM에 예시 없이 질문하기
+
+```
+What is the official currency of the specified country?
+India:
+```
+
+- One-shot prompting
+
+```
+What is the official currency of the specified country?
+France: EUR
+India:
+```
+
+- Few-shot prompting
+
+```
+What is the official currency of the specified country?
+France: EUR
+United Kingdom: GBP
+India:
+```
 
 ## ML Glossary에 나와 있는 참고자료
 
