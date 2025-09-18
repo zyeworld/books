@@ -389,14 +389,98 @@ Iteration에 따른 training loss와 validation loss 그래프.
 
 하이퍼파라미터 같은 거 조금씩 바꿔가며 더 나은 모델 만들기. 더 나은 모델이 안 나오면 멈춤. [참고](https://developers.google.com/machine-learning/guides/deep-learning-tuning-playbook)
 
-### Hinge loss
-
-Binary classification이면 `y`가 실제 값, `y'`이 예측 값일 때 `max(0, 1 - (y*y'))`. Kernel Support Vector Machine(KSVM)에 사용.
-
 ### Human in the loop(HITL)
 
 1. 생성형 AI의 출력을 비판적으로 보는 것
 2. 사람이 모델의 행동에 관여해 도움을 주는 것 (ex: AI가 만든 코드를 사람이 리뷰)
+
+### Interpretability
+
+> The ability to explain or to present an ML model's reasoning in understandable terms to a human
+
+### Inter-rater agreement
+
+주어진 과제를 사람한테 풀라 시키면 다들 답이 일치하나? (불일치 시 과제를 더 잘 적어야 할 가능성)
+
+- Cohen's kappa: 우연히 일치할 확률을 `e`, 실제 관측된 일치율을 `o`라 할 때 `kappa = 1 - (1-o)/(1-e)`
+    - 완전 일치하면 `kappa = 1`, 찍는 거랑 다를 바가 없으면 `kappa = 0`이 됨
+
+### Item matrix
+
+추천 시스템에서 각 아이템(상품)의 특성을 나열한 배열. 각 열이 각 상품에 해당함. 임베딩을 거친 후의 배열이라 사람이 해석할 수 있는 값은 아님
+
+### JAX
+
+배열 계산하는 라이브러리. Mathjax와는 관련이 없다. TADC의 Jax와도 관련이 없다
+
+### Keypoints (landmarks)
+
+이미지 내에 특정한 물체가 존재하는 좌표.
+
+### k-fold cross validation
+
+학습 데이터를 train / validation / test로 나누는 게 아니라 k등분한 다음 test 돌려막기 (k개 중 1개를 test, 나머지를 training으로 하는 걸 k번 반복). 학습 데이터가 적을 때 할 만한 방법.
+
+### k-means
+
+k개의 클러스터를 만드는 알고리즘. 중심점에서 각 지점까지의 거리 제곱합이 최소가 되도록 함.
+
+- 비교 - k-median: 중심점에서 각 지점까지의 거리 합이 최소가 되도록 함.
+
+### Label leakage
+
+데이터를 잘못 만들어서 사실상 설명에 답을 적어버린 경우.
+
+### Language model
+
+토큰의 배열을 입력받으면 특정 토큰이 나올 확률을 예측하는 모델.
+
+### Logistic regression
+
+1. 정답이 범주의 형식이다(categorical)
+2. Log Loss를 쓴다
+3. 선형 모델로 예측값을 내놓은 다음 sigmoid로 0 이상 1 미만으로 바꾼다. (답을 범주로 얘기하고 싶으면 threshold와 대소를 비교한다)
+
+### Logit
+
+분류 모델이 내 놓은 raw한 예측값. 이후에 softmax 등 정규화하는 함수를 거쳐야 함.
+
+### Loss
+
+모델의 예측값과 정답이 얼마나 다른지 계산하는 척도.
+
+- L1: `|정답 - 예측값|`의 합. 평균 내면 Mean Absolute Error가 됨.
+- L2: `(정답 - 예측값)^2`의 합. 평균 내면 Mean Squared Error가 됨. 아웃라이어를 더 잘 줄임. 선형 회귀에 사용.
+- Hinge loss: 실제 답 `y = 0, 1`과 예측한 답 `y'`에 대해 `max(0, 1 - (y*y'))`. Kernel Support Vector Machine(KSVM)에 사용.
+- Log loss: 실제 답 `y = 0, 1`과 예측한 답 `y'`에 대해 `-ylog(y') - (1-y)log(1-y')`의 합. 로지스틱 회귀에 사용.
+
+### Loss aggregator
+
+여러 모델의 예측값을 합쳐서 하나의 예측 내기.
+
+### Low-Rank Adaptability(LoRA)
+
+Pre-train한 모델의 weight를 고정한 다음, 추가로 학습 가능한 weight가 몇 개 있는 update matrix를 붙여서 fine-tuning하기. 하기 빨라서 좋음
+
+### Odds
+
+성공과 실패 두 경우의 수가 있을 때, `성공확률 / 실패확률`. 
+
+- Log-odds: `ln(odds)`. Sigmoid 함수의 역함수임.
+
+### Regularization
+
+오버피팅을 줄이기 위한 모든 기법을 포괄하는 말. Training loss는 나빠지지만 일반화 능력은 좋아짐.
+
+- L0: nonzero weight의 개수에 패널티 부과. 북잡한 모델에는 부적합함.
+- L1: weight의 절댓값에 패널티 부과. 필요없는 weight를 정확히 0으로 만들어 줌.
+- L2: weight의 제곱 값에 패널티 부과. 아웃라이어를 잘 줄여주지만 필요없는 weight를 정확히 0으로 만들지는 않음.
+- Dropout regularization: 학습 스텝마다 무작위로 뉴런 몇 개 꺼 놓기
+- 그 외 넓게 보면 early stopping 등도 오버피팅을 줄이기 위한 기법임
+
+### Value imputation
+
+데이터셋에서 값이 빠져 있는 데이터 적절히 채워넣기
 
 ### Zero-shot learning
 
@@ -422,7 +506,7 @@ France: EUR
 India:
 ```
 
-- Few-shot prompting
+- Few-shot prompting (in-context learning)
 
 ```
 What is the official currency of the specified country?
@@ -444,6 +528,8 @@ India:
 - Incompatibility of Fairness Metrics: [On the (im)possibility of fairness](https://arxiv.org/pdf/1609.07236)
 - sepCNN: [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/pdf/1610.02357)
 - Inception: [inception](https://github.com/tensorflow/tpu/tree/master/models/experimental/inception)
+- LaMDA: [LaMDA: our breakthrough conversation technology](https://blog.google/technology/ai/lamda/)
+- LIT: [Learning Interpretability Tool](https://pair-code.github.io/lit/)
 
 ## 오탈자 / 오개념 수정 리스트
 
