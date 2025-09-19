@@ -462,6 +462,68 @@ k개의 클러스터를 만드는 알고리즘. 중심점에서 각 지점까지
 
 Pre-train한 모델의 weight를 고정한 다음, 추가로 학습 가능한 weight가 몇 개 있는 update matrix를 붙여서 fine-tuning하기. 하기 빨라서 좋음
 
+### Machine learning
+
+> A program or system that trains a model from input data.
+
+### Masked language model
+
+텍스트의 일부를 가리고 뭔지 맞추는 모델. 보통 가릴 단어를 `"MASK"`라는 단어로 대체하는 방법을 쓴다고 함.
+
+### Matrix factorization
+
+행렬 인수분해. 곱하면 목표 행렬이 나오는 행렬들 찾기.
+
+추천 시스템에서 목표 행렬은 "각 사람이 각 상품을 선호하는 정도"를 담고 있는 행렬임`(사람 수 x 상품 수)`. User matrix`(사람 수 x 임베딩 수)`와 Item matrix`(임베딩 수 x 상품 수)`를 곱했을 때 목표 행렬이 나오도록 임베딩 만들기. 임베딩 Feature 수가 적으면 두 행렬의 크기가 목표 행렬보다 훨씬 작게 됨.
+
+### Mesh
+
+TPU를 활용해 병렬적으로 머신 러닝을 할 때 사용하는 말.
+
+1. TPU 칩들의 물리적인 배치도.
+2. 데이터와 모델을 어떻게 TPU 칩에다 배분할지 정한 것.
+
+### Meta-learning
+
+머신러닝 알고리즘을 발견/개선하는 데에 머신러닝 쓰기.
+
+### Metric
+
+> A statistic that you care about.
+
+### Mixture of experts (MOE)
+
+문제의 종류에 따라 신경망의 일부만 사용하기. 각 경우에 사용하는 신경망의 부분집합을 Expert라 부름. 문제의 종류를 보고 Expert를 골라주는 장치는 Gating network라 부름.
+
+### Modality
+
+'글', '이미지', '영상' 같은 데이터의 대분류.
+
+### Model
+
+> 1. Any mathematical construct that processes input data and returns output.
+> 2. The set of parameters and structure needed for a system to make predictions.
+
+### Model capacity
+
+모델이 얼마나 복잡한 문제까지 배울 수 있는지.
+
+- Vapnik-Chervonenkis dimension:
+    - 모델이 shatter할 수 있는 가장 큰 집합의 크기.
+    - Binary 분류 과제에서 데이터 n개가 있다고 하자. 이 데이터 n개의 정답을 어떻게 설정하든 간에, 모델한테 그걸 학습시켜서 모델이 그 n개의 정답을 정확히 맞출 수 있다면, 모델이 이 데이터 n개의 집합을 shatter할 수 있다고 정의한다.
+
+### Model cascading
+
+문제의 복잡도에 따라 얼마나 복잡한 모델한테 물어볼지 결정하기. 쉬운 문제는 단순한 모델한테 물어봐서 비용 아끼기. 문제를 보고 모델을 골라주는 장치는 Model router라 부름.
+
+### Momentum
+
+기울기 하강할 때 현재 단계의 기울기뿐 아니라 이전 단계의 기울기도 반영하는 것. 중요도는 이전으로 갈수록 지수적으로 감소함. Local한 극솟값에 머무는 걸 막을 수도 있음.
+
+### Multitask
+
+한 모델이 여러 과제를 해결할 수 있도록 학습시키기. 과제 간의 일반화 능력이 생겨 도움이 될 수 있음.
+
 ### Odds
 
 성공과 실패 두 경우의 수가 있을 때, `성공확률 / 실패확률`. 
@@ -525,11 +587,14 @@ India:
 - Counterfactual fairness: [When Worlds Collide: Integrating Different Counterfactual Assumptions in Fairness](https://papers.nips.cc/paper/2017/file/1271a7029c9df08643b631b02cf9e116-Paper.pdf)
 - Dropout regularization: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 - Fairness Metric: [Fairness Definitions Explained](https://fairware.cs.umass.edu/papers/Verma.pdf)
-- Incompatibility of Fairness Metrics: [On the (im)possibility of fairness](https://arxiv.org/pdf/1609.07236)
-- sepCNN: [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/pdf/1610.02357)
+- GAN: [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661)
 - Inception: [inception](https://github.com/tensorflow/tpu/tree/master/models/experimental/inception)
+- Incompatibility of Fairness Metrics: [On the (im)possibility of fairness](https://arxiv.org/pdf/1609.07236)
 - LaMDA: [LaMDA: our breakthrough conversation technology](https://blog.google/technology/ai/lamda/)
 - LIT: [Learning Interpretability Tool](https://pair-code.github.io/lit/)
+- MOE 1: [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/pdf/1701.06538)
+- MOE 2: [Mixture-of-Experts with Expert Choice Routing](https://research.google/blog/mixture-of-experts-with-expert-choice-routing/?m=1)
+- sepCNN: [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/pdf/1610.02357)
 
 ## 오탈자 / 오개념 수정 리스트
 
