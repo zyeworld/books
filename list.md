@@ -12,14 +12,19 @@
 
 # Have Read &emsp; 읽은 책
 
-## Social sciences
+## 인문 / Humanities
+
+- [What IS Your Dangerous Idea?](docs/John_Brockman/What_Is_Your_Dangerous_Idea.md)
+
+
+## 사회 / Social sciences
 
 - [The News: A User's Manual - Alain de Botton](docs/Alain_de_Botton/The_News_A_Users_Manual.md)
 
 
-## Fantasy & SF
+## 판타지 & SF / Fantasy & SF
 
 - [Project Hail Mary - Andy Weir](docs/Andy_Weir/Project_Hail_Mary.md)
 
 
-## Textbooks & Documentations
+## 교과서 & 설명서 / Textbooks & Documentations
