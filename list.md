@@ -2,6 +2,7 @@
 
 - Chaos: Making a New Science - James Gleick `reread`
 - Sapiens: A Brief History of Humankind - Yuval Harari `first read`
+- The Problems of Philosophy - Bertrand Russell `first read`
 
 # Will Read &emsp; 앞으로 읽을 책
 
@@ -13,6 +14,8 @@
 # Have Read &emsp; 읽은 책
 
 ## 인문 / Humanities
+
+- [Simulacre et Simulation](docs/Jean_Baudrillard/Simulation.md)
 
 - [What IS Your Dangerous Idea?](docs/John_Brockman/What_Is_Your_Dangerous_Idea.md)
 
