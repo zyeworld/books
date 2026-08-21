@@ -116,7 +116,7 @@ Result (4d array):  8 x 7 x 6 x 5
 
 온도 -> 더운가? 따뜻한가? 추운가?처럼 한 feature을 여러 binary feature로 바꾸기
 
-### Candidate sampling
+### Candidate sampling(Negative sampling)
 
 - 정답은 항상 정적 강화하되 오답은 (일부만 추려서) 가끔가다만 부적 강화하기
 - ex: 개 사진 보여주고 이 사진이 뭐냐? -> '개' 수치는 높아야 하고 나머지 수치는 낮아야 함 -> 나머지 수치(고양이, 사람, 나무...) 중에서는 일부만 랜덤으로 뽑아서 평가하기
@@ -523,6 +523,24 @@ TPU를 활용해 병렬적으로 머신 러닝을 할 때 사용하는 말.
 ### Multitask
 
 한 모델이 여러 과제를 해결할 수 있도록 학습시키기. 과제 간의 일반화 능력이 생겨 도움이 될 수 있음.
+
+### Natural Language Processing (NLP)
+
+말이나 글 처리하기
+
+### Natural Language Understanding (NLU)
+
+말이나 글의 의도 파악하기(맥락 등)
+
+### Neural Architecture Search (NAS)
+
+신경망 구조 설계를 자동화하기. 보통 가능한 구조 몇 개에서 시작해 탐색 공간을 넓혀 감.
+
+### No one right answer (NORA)
+
+여러가지 정답이 존재하는 프롬프트.
+
+
 
 ### Odds
 
