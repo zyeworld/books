@@ -1,7 +1,6 @@
 # Currently Reading &emsp; 현재 읽는 책
 
 - Chaos: Making a New Science - James Gleick `reread`
-- Sapiens: A Brief History of Humankind - Yuval Harari `first read`
 - The Problems of Philosophy - Bertrand Russell `first read`
 
 # Will Read &emsp; 앞으로 읽을 책
@@ -15,19 +14,23 @@
 
 ## 인문 / Humanities
 
-- [Simulacre et Simulation](docs/Jean_Baudrillard/Simulation.md)
+- [Sapiens - Yuval Harari](docs/Yuval_Noah_Harari/Sapiens_A_Brief_History_of_Humankind.md)
 
-- [What IS Your Dangerous Idea?](docs/John_Brockman/What_Is_Your_Dangerous_Idea.md)
+- [Simulacre et Simulation - Jean Baudrillard](docs/Jean_Baudrillard/Simulation.md)
+
+- [The News - Alain de Botton](docs/Alain_de_Botton/The_News_A_Users_Manual.md)
+
+- [What Is Your Dangerous Idea? - John Brockman](docs/John_Brockman/What_Is_Your_Dangerous_Idea.md)
 
 
-## 사회 / Social sciences
-
-- [The News: A User's Manual - Alain de Botton](docs/Alain_de_Botton/The_News_A_Users_Manual.md)
+## 과학 / Science
 
 
-## 판타지 & SF / Fantasy & SF
+## 소설 / Novel
 
 - [Project Hail Mary - Andy Weir](docs/Andy_Weir/Project_Hail_Mary.md)
 
 
 ## 교과서 & 설명서 / Textbooks & Documentations
+
+- [Math History - Jay Cummings](docs/Jay_Cummings/Math_History.md)
