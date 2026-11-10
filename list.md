@@ -10,7 +10,7 @@
 
 > I may not read them in the order they are listed, and all plans are prone to change. <br> 여기 나온 순서대로 읽지 않을 수 있고, 계획은 언제든 변경 가능
 
-# Have Read &emsp; 읽은 책
+# Have Read / Paused &emsp; 읽은 책 / 멈춘 책
 
 ## 인문 / Humanities
 
@@ -19,6 +19,8 @@
 - [Simulacre et Simulation - Jean Baudrillard](docs/Jean_Baudrillard/Simulation.md)
 
 - [The News - Alain de Botton](docs/Alain_de_Botton/The_News_A_Users_Manual.md)
+
+- [Utilitarianism - John Stuart Mill](docs/John_Stuart_Mill/Utilitarianism.md)
 
 - [What Is Your Dangerous Idea? - John Brockman](docs/John_Brockman/What_Is_Your_Dangerous_Idea.md)
 

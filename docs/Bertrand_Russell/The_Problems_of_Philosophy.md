@@ -2,7 +2,7 @@
 
 - `Author`: Bertrand Russell
 - `Year`: 1912
-- `Link`: [Project Gutenberg](https://www.gutenberg.org/files/5827/5827-h/5827-h.htm)
+- `Link`: [Project Gutenberg](https://www.gutenberg.org/ebooks/5827)
 
 <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/The_Problems_of_Philosophy%2C_1912_title_page.JPG" width="200">
 
